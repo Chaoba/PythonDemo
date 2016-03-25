@@ -1,0 +1,1726 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+<head id="Head"><meta id="MetaDescription" name="DESCRIPTION" content="北京市住房和城乡建设委员会门户网站（简称北京建设网）建于2001年，是北京市住房和城乡建设委员会向公众提供信息和服务的综合平台。" /><meta id="MetaKeywords" name="KEYWORDS" content="北京市住房和城乡建设委员会,市住房城乡建设委,北京市建设委员会,市建委,北京建设网" /><meta id="MetaCopyright" name="COPYRIGHT" content="Copyright 2002-2007 Huilan InfoTech" /><meta id="MetaGenerator" name="GENERATOR" /><meta id="MetaAuthor" name="AUTHOR" content="北京市住房和城乡建设委员会门户网站" /><meta name="RESOURCE-TYPE" content="DOCUMENT" /><meta name="DISTRIBUTION" content="GLOBAL" /><meta name="ROBOTS" content="INDEX, FOLLOW" /><meta name="REVISIT-AFTER" content="1 DAYS" /><meta name="RATING" content="GENERAL" /><meta http-equiv="PAGE-ENTER" content="RevealTrans(Duration=0,Transition=1)" /><meta http-equiv="Content-Type" content="text/html;charset=utf-8" /><meta http-equiv="Pragma" content="no-cache" /><meta http-equiv="Cache-Control" content="no-cache" /><meta http-equiv="Expires" content="0" /><style id="StylePlaceholder"></style><link id="_DesktopModules_TowLevelMenu" rel="stylesheet" type="text/css" href="/DesktopModules/TowLevelMenu/module.css" /><link id="_Portals__default_" rel="stylesheet" type="text/css" href="/Portals/_default/default.css" /><link id="_Portals_0_Skins_2013xxgk_erji_" rel="stylesheet" type="text/css" href="/Portals/0/Skins/2013xxgk_erji/skin.css" /><link id="_Portals__default_Containers_Null_" rel="stylesheet" type="text/css" href="/Portals/_default/Containers/Null/container.css" /><link id="_Portals_0_" rel="stylesheet" type="text/css" href="/Portals/0/portal.css" /><title>
+	房屋交易
+</title></head>
+<body id="Body" style="margin:0">
+    <noscript>
+    </noscript>
+    <form name="Form" method="post" action="/tabid/2167/default.aspx?COLLCC=2389390305&amp;COLLCC=2937872865&amp;" id="Form" enctype="multipart/form-data" style="height:100%;">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['Form'];
+if (!theForm) {
+    theForm = document.Form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=wB_4gyFtQgNCH5tDff9b9A2&amp;t=635464775082343750" type="text/javascript"></script>
+
+
+<script src="/js/esscore.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZKFX3IWwAOvGLR3lYA9chJEWqR1bkkZRtgEdYkLS3YbeqShFB4dglHqxYVnl7gxz0&amp;t=633380007520000000" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ZKFX3IWwAOvGLR3lYA9chJEWqR1bkkZRtgEdYkLS3YaQw8-S-Ay1ljm9O9Yfdwc7Hkgw7XeZpEs1&amp;t=633380007520000000" type="text/javascript"></script>
+        
+        
+<!--一级导航往上部分开始-->
+<div id="ess_toppane" class="top"><a name="1822"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr1822_ContentPane" align="left"><!-- Start_Module_1822 --><div id="ess_ctr1822_ModuleContent">
+	<span id="ess_ctr1822_HtmlModule_HtmlModule_lblContent" class="Normal"><ul class="topmenu center"><li><a href="/publish/portal0/tab4236/" title="住建网APP" target=_blank>住建网APP</a></li><li class=txt>|</li><li><a href="http://weibo.com/u/2417827827" title="官方微博" target=_blank>官方微博</a></li><li class=txt>|</li><li><a href="http://m.bjjs.gov.cn/" title="手机门户" target=_blank>手机门户</a></li><li class=txt>|</li><li><a href="/tabid/687/default.aspx" title="信息订阅" target=_blank>信息订阅</a></li><li class=txt>|</li><li><a href="/tabid/2016/Default.aspx" title="服务承诺" target=_blank>服务承诺</a></li><li class=txt>|</li><li><a href="/tabid/1028/DefChangeBgault.aspx" title="English" target=_blank>English</a></li><li class=txt>|</li><li data-floatWindow="true"><a href="http://www.bjjs.gov.cn/Assistants/index.html" title="无障碍浏览" target=_blank>无障碍浏览</a></li></ul></span>
+<!-- End_Module_1822 -->
+</div></td>
+</tr></tbody></table></div>
+<div id="ess_searchpane" class="logo center"><a name="3592"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr3592_ContentPane" align="left"><!-- Start_Module_3592 --><div id="ess_ctr3592_ModuleContent">
+	<span id="ess_ctr3592_HtmlModule_lblContent" class="Normal"><table cellSpacing=0 cellPadding=0 width="1000" border=0>
+<tbody>
+<tr>
+<td width=7></td>
+<td width=63 Command="FlashManager" height=90 style="padding-bottom:5px;"><embed pluginspage=http://www.macromedia.com/go/getflashplayer align=baseline src=/Portals/0/2010images/logo.swf width=88 height=74 data-content="北京市住房和城乡建设委员会" type=application/x-shockwave-flash bgcolor="" salign="LT" wmode="transparent" quality="high" menu="false" loop="true"></embed></td>
+<td width="307" ><a href="/tabid/3698/default.aspx" style="cursor:pointer;" title="北京市住房和城乡建设委员会" target="_blank" >
+<img title="北京市住房和城乡建设委员会" alt="北京市住房和城乡建设委员会" src="/portals/0/2011fwqsdj/2011fwqsdj_but2.gif" width=307 height=54 border=0 /></a></td>
+<td width=573 align=center><table  cellSpacing=0 cellPadding=0 align=center border=0>
+<tbody>
+<tr>
+<td height=29><iframe src="/portals/0/easydigfrm/default.htm" frameBorder=0 width=396 scrolling=no height=29></iframe></td>
+</tr><tr><td height=22 class=liststyle3><span id=liststyle3>热词：<a href="http://www13.f5.bjjs.gov.cn/dig/search.action?ty=&w=false&f=&dr=true&p=1&sr=score+desc&fq=&advtime=&advrange=&q=%E8%87%AA%E4%BD%8F%E5%9E%8B%E5%95%86%E5%93%81%E4%BD%8F%E6%88%BF&ext=-1" title="自住型商品住房" target=_blank>自住型商品住房</a>&nbsp;
+<a href="http://www13.f5.bjjs.gov.cn/dig/search.action?ty=&w=false&f=&dr=true&p=1&sr=score+desc&rp=&fq=&advtime=&advrange=&q=%E9%80%A0%E4%BB%B7%E5%91%98&ext=-1" title="造价员" target=_blank>造价员</a>&nbsp;
+
+<a href="http://www13.f5.bjjs.gov.cn/dig/search.action?ty=&w=false&f=&dr=true&p=1&sr=score+desc&rp=&fq=&advtime=&advrange=&q=%E8%B4%AD%E6%88%BF%E8%B5%84%E6%A0%BC%E6%A0%B8%E9%AA%8C&ext=-1" title="购房资格核验" target=_blank>购房资格核验</a>&nbsp;
+
+<a href="http://www13.f5.bjjs.gov.cn/dig/search.action?ty=&w=false&f=&dr=true&p=1&sr=score+desc&rp=&fq=&advtime=&advrange=&q=%E6%88%BF%E6%BA%90%E6%9F%A5%E8%AF%A2&ext=-1" title="房源查询" target=_blank>房源查询</a>&nbsp;
+
+<a href="http://www13.f5.bjjs.gov.cn/dig/search.action?ty=&w=false&f=&dr=true&p=1&sr=score+desc&rp=&fq=&advtime=&advrange=&q=%E4%B8%93%E4%B8%9A%E4%BA%BA%E5%91%98&ext=-1" title="专业人员" target=_blank>专业人员</a>
+
+</span>
+</td></tr></tbody></table></td>
+<td width="50" align="right"><a href="http://www.beijing.gov.cn/" target="_blank" title="首都之窗"><img src="/portals/0/2013/beijing.gif" title="首都之窗" alt="首都之窗" width="48" height="54" border="0" /></a></td>
+</tr></tbody></table></span>
+<!-- End_Module_3592 -->
+</div></td>
+</tr></tbody></table></div>
+<div class=menu><div class="menuspan center"><div class="menutxt left"><span id="ess_essLINKS_lblLinks"><table CELLPADDING="0" CELLSPACING="0" width="100%" border="0"><tr><td><table cellpadding=0  cellspacing=0 border=0 width=120 align=center><tr><td align=center class=menufont><a href="/tabid/3939/Default.aspx">首　页</a></td></tr></table></td><td><table cellpadding=0  cellspacing=0 border=0 width=120 align=center><tr><td align=center class=menufont><a href="/tabid/60/Default.aspx">信息公开</a></td></tr></table></td><td><table cellpadding=0  cellspacing=0 border=0 width=120 align=center><tr><td align=center class=menufont><a href="/tabid/1284/Default.aspx">办事指南</a></td></tr></table></td><td><table cellpadding=0  cellspacing=0 border=0 width=120 align=center><tr><td align=center class=menufont><a href="/tabid/65/Default.aspx">政民互动</a></td></tr></table></td></tr></table></span>
+</div><div id="ess_menutoppane" class="menutxtright left"><a name="9858"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr9858_ContentPane" align="left"><!-- Start_Module_9858 --><div id="ess_ctr9858_ModuleContent">
+	<span id="ess_ctr9858_HtmlModule_lblContent" class="Normal"><center><table cellpadding=0 cellspacing=0 border=0 align=center width=300>
+<tr><td width=100 align=center height=27><a href="/tabid/1210/Default.aspx" target=_blank><font class="menufont2">房屋管理</font></a></td>
+<td width=100 align=center><a href="/tabid/1222/Default.aspx" target=_blank><font class="menufont">工程建设</font></a></td>
+<td width=100 align=center><a href="/tabid/3565/Default.aspx" target=_blank><font class="menufont">住房保障</font></a></td>
+</tr></table></center></span>
+<!-- End_Module_9858 -->
+</div></td>
+</tr></tbody></table></div></div></div>
+<!--一级导航往上部分结束-->
+
+<!--当前位置往上部分开始-->
+<div class="bannerpane">
+		<div id="ess_head_xmlmenupane" class="secmenu center"><a name="9642"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr9642_ContentPane" align="left"><!-- Start_Module_9642 --><div id="ess_ctr9642_ModuleContent">
+	<!--Two Level Menu Start Point--><DIV id="tmenu_9642"><div class="xxgk_ej_ym"> <table width="100%" border="0" cellpadding="0" cellspacing="0"   ><tr valign="top"><td class="firstNormalTd"><div class="xxgk_ej_one"><A href="/tabid/2140/Default.aspx" class="firstNormal"><span>房地产开发管理</span></A></div></td><td class="firstActiveTd"><div class="xxgk_ej_zi"><A href="/tabid/2207/Default.aspx" class="firstNormal"><span>房地产交易</span></A></div></td><td class="firstNormalTd"><div class="xxgk_ej_zi"><A href="/tabid/614/Default.aspx" class="firstNormal"><span>房屋安全与设备</span></A></div></td><td class="firstNormalTd"><div class="xxgk_ej_zi"><A href="/tabid/612/Default.aspx" class="firstNormal"><span>物业管理信息</span></A></div></td><td class="firstNormalTd"><div class="xxgk_ej_zi"><A href="/tabid/613/Default.aspx" class="firstNormal"><span>房屋征收拆迁管理</span></A></div></td><td class="firstNormalTd"><div class="xxgk_ej_zi"><A href="/tabid/1933/Default.aspx" class="firstNormal"><span>住房改革</span></A></div></td><td class="firstNormalTd"><div class="xxgk_ej_zi"><A href="/tabid/4361/Default.aspx" class="firstNormal"><span>房产测绘管理</span></A></div></td></tr></table></div></DIV><!--Two Level Menu End Point--><!-- End_Module_9642 -->
+</div></td>
+</tr></tbody></table></div>
+</div>
+<div class="dqwzpane center">
+	<div class=dqwzcont>当前位置：<span id="ess_essBREADCRUMB_lblBreadCrumb"><a href='http://www.bjjs.gov.cn/default.aspx' class='dqwzcont'>首页</a> >  <a href="/tabid/1210/Default.aspx" class="dqwzcont">房屋管理</a> >  <a href="/tabid/2207/Default.aspx" class="dqwzcont">房地产交易</a> >  <a href="/tabid/2167/Default.aspx" class="dqwzcont">房屋交易</a></span>
+</div>
+</div>
+<!--当前位置往上部分结束-->
+
+
+<div class="cont_top_wrap">
+	<div id="ess_contentpane" class="cont_top"><a name="5115"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr5115_ContentPane" align="left"><!-- Start_Module_5115 --><div id="ess_ctr5115_ModuleContent">
+	
+
+<html><head>
+<title>商品房数据统计</title>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<style type="text/css">
+	<!--
+	BODY { MARGIN: 0px; }
+	BODY {SCROLLBAR-FACE-COLOR: #eaeaea;SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;SCROLLBAR-SHADOW-COLOR: #999999;SCROLLBAR-3DLIGHT-COLOR: #999999;SCROLLBAR-ARROW-COLOR: #999999;SCROLLBAR-DARKSHADOW-COLOR: #ffffff;SCROLLBAR-BASE-COLOR: #cfcfcf}
+	textarea {SCROLLBAR-FACE-COLOR: #eaeaea;SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;SCROLLBAR-SHADOW-COLOR: #999999;SCROLLBAR-3DLIGHT-COLOR: #999999;SCROLLBAR-ARROW-COLOR: #999999;SCROLLBAR-DARKSHADOW-COLOR: #ffffff;SCROLLBAR-BASE-COLOR: #cfcfcf}
+	TD { FONT-SIZE: 12px }
+	P { TEXT-INDENT: 2em }
+	P { LINE-HEIGHT: 150% }
+	.line18 { LINE-HEIGHT: 18px }
+	.line20 { LINE-HEIGHT: 20px }
+	.line22 { LINE-HEIGHT: 22px }
+	.f12a1 { COLOR: #000000; TEXT-DECORATION: none }
+	.f12a1:hover { COLOR: #ff0000; TEXT-DECORATION: none }
+	.f12a2 { COLOR: #666666; TEXT-DECORATION: none }
+	.f12a2:hover { COLOR: #ff0000; TEXT-DECORATION: none }
+	.f12a3 { COLOR: #FFFF00; TEXT-DECORATION: none }
+	.f12a3:hover { COLOR: #FFFF00; TEXT-DECORATION: underline }
+	.f12a4 { COLOR: #CC0000; TEXT-DECORATION: none }
+	.f12a4:hover { COLOR: #CC0000; TEXT-DECORATION: underline }
+	.f12a5 { FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none }
+	.f12a5:hover { FONT-WEIGHT: bold; COLOR: #FFCC00; TEXT-DECORATION: underline }
+	.f12a6 { FONT-WEIGHT: bold; COLOR: #FFFF00; TEXT-DECORATION: none }
+	.f12a6:hover { FONT-WEIGHT: bold; COLOR: #FFFF00; TEXT-DECORATION: underline }
+	.f12a7 { FONT-WEIGHT: bold; COLOR: #cc6600; TEXT-DECORATION: none }
+	.f12a7:hover { FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a1 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none }
+	.f14a1:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a2 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #003399; TEXT-DECORATION: none }
+	.f14a2:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a3 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none }
+	.f14a3:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a4 { FONT-SIZE: 14px; COLOR: #000000; }
+	.title { FONT-SIZE: 16px;FONT-WEIGHT: bold; COLOR: #0052B8; }
+	.tab {BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; HEIGHT: 15px }
+	.tab1 {BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; }
+	.fontfamily { font-family:宋体;}
+	-->
+</style>
+</head>
+<body>
+
+<table width="969"  border="0" cellpadding="0" cellspacing="0">
+	<tr><td height="28" align="right" background="/portals/0/bjfdc_images/title01.gif"><a href="#popup" name="popup_statistic_everyday" target="_blank" class="f12a1" id="popup_statistic_everyday"><!--历史数据查询...--></a>&nbsp;&nbsp;</td>
+	</tr>
+	<script language=vbscript>
+		sub popup_statistic_everyday_onclick
+			window.Open "/publicbjjs/statistic/popup_everyday_all.asp","历史数据查询","width=780,height=310,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0"
+			window.event.returnValue=false
+		end sub
+		
+		sub popup_statistic_everyday_ys_onclick
+			window.Open "/publicbjjs/statistic/popup_everyday_ys.asp","期房网上签约详细资料","width=300,height=200,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0"
+			window.event.returnValue=false
+		end sub
+	</script>
+</table>
+<table width="969"  border="0" cellpadding="0" cellspacing="5" style="border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
+	<tr><td width="25%"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+		<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1">可售期房统计</td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 可售房屋套数：</td>
+		<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount" class="fontfamily">96611</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 可售房屋面积(M<sup>2</sup>)：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea" class="fontfamily">9122839.0400</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;&nbsp;住宅套数：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount" class="fontfamily">32055</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea" class="fontfamily">4299898.5900</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount" class="fontfamily">7387</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea" class="fontfamily">974084.8800</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount" class="fontfamily">17733</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea" class="fontfamily">687784.6000</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount" class="fontfamily">35585</span></td></tr>
+		<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+		<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea" class="fontfamily">2903892.2300</span></td></tr>
+		
+
+		
+		</table></td>
+		
+		<td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1"> <span id="ess_ctr5115_FDCJY_HouseTransactionStatist_Year" class="fontfamily">2016</span> 年<span id="ess_ctr5115_FDCJY_HouseTransactionStatist_Month" class="fontfamily">2</span>月预售许可</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 批准预售许可证：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount2" class="fontfamily">4</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 批准预售面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea2" class="fontfamily">174154.9200</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount2" class="fontfamily">675</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea2" class="fontfamily">52316.7400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount2" class="fontfamily">1</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea2" class="fontfamily">37531.5800</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount2" class="fontfamily">325</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea2" class="fontfamily">29219.9100</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount2" class="fontfamily">470</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea2" class="fontfamily">21193.9800</span></td></tr>
+			
+		</table></td>
+		
+		<td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a1"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_timeMark" class="fontfamily">2016-3-23</span>期房网上认购</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购套数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount3" class="fontfamily">103</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea3" class="fontfamily">13242.4600</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount3" class="fontfamily">93</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea3" class="fontfamily">12404.9700</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount3" class="fontfamily">3</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea3" class="fontfamily">309.4900</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount3" class="fontfamily">7</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea3" class="fontfamily">528.0000</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount3" class="fontfamily">0</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea3" class="fontfamily">0.0000</span></td></tr>
+			
+		</table></td>
+		
+		<td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_timeMark2" class="fontfamily">2016-3-23</span>期房网上签约</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约套数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount4" class="fontfamily">427</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约面积 (M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea4" class="fontfamily">35420.2900</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;其中&nbsp;&nbsp;&nbsp;&nbsp;住宅套数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount4" class="fontfamily">264</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea4" class="fontfamily">24846.2600</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount4" class="fontfamily">24</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea4" class="fontfamily">2442.6400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount4" class="fontfamily">117</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea4" class="fontfamily">7201.9000</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount4" class="fontfamily">19</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea4" class="fontfamily">788.8800</span></td></tr>
+			
+		</table></td></tr>
+		
+		<tr><td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">未签约现房统计</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 未签约套数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount5" class="fontfamily">114627</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 未签约面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea5" class="fontfamily">11507656.5500</span></td></tr>
+			
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;其中&nbsp;&nbsp;住宅套数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount5" class="fontfamily">35999</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea5" class="fontfamily">4593817.8700</span></td></tr>
+			
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount5" class="fontfamily">6522</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea5" class="fontfamily">1659220.1400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount5" class="fontfamily">14727</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea5" class="fontfamily">1841666.5400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount5" class="fontfamily">47336</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea5" class="fontfamily">2005457.1700</span></td></tr>
+			<tr bgcolor="#E3E2E2"><td height="20" bgcolor="#F9F4E8" colspan="2" align="center"><!--截止日期：2010-11-28--> <!--<a href="/publicbjjs/statistic/left.asp?show=2" style="color:#cc6600" target="_blank">--><span style="color:#cc6600"><b><!--查看详细资料>>>--></b></span></td></tr>
+		</table></td>
+		
+		<td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">现房项目情况</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 现房项目个数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount6" class="fontfamily">23404</span></td></tr>
+			<!--<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 楼栋个数：</td>
+			<td align="center">29315</td></tr>-->
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 初始登记面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea6" class="fontfamily">214491171.5000</span></td></tr>
+			
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount6" class="fontfamily">758179</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea6" class="fontfamily">93898647.1400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount6" class="fontfamily">68072</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea6" class="fontfamily">15148618.6400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount6" class="fontfamily">66441</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea6" class="fontfamily">12703609.6800</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount6" class="fontfamily">355618</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea6" class="fontfamily">14302610.7500</span></td></tr>
+			<tr bgcolor="#E3E2E2"><td height="20" colspan="2" align="center">截止日期：<span id="ess_ctr5115_FDCJY_HouseTransactionStatist_timeMark5" class="fontfamily">2016-3-23</span></td></tr>
+		</table></td>
+		
+		<td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a2"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_timeMark3" class="fontfamily">2016-3-23</span>现房网上认购 </td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 网上认购套数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount7" class="fontfamily">103</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea7" class="fontfamily">13933.4700</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+			<td align="center" bgcolor="#F9F4E8"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount7" class="fontfamily">96</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea7" class="fontfamily">13258.0900</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount7" class="fontfamily">0</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea7" class="fontfamily">0.0000</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount7" class="fontfamily">6</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea7" class="fontfamily">634.8300</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount7" class="fontfamily">0</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea7" class="fontfamily">0.0000</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" colspan="2">&nbsp;</td></tr>
+		</table></td>
+		
+		<td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
+			<tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_timeMark4" class="fontfamily">2016-3-23</span>现房网上签约</td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 网上签约套数：</td>
+			<td align="center" width=35%><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalCount8" class="fontfamily">191</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_totalArea8" class="fontfamily">18664.9500</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceCount8" class="fontfamily">63</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_residenceArea8" class="fontfamily">9677.1400</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessCount8" class="fontfamily">9</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_BusinessArea8" class="fontfamily">1127.4300</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeCount8" class="fontfamily">42</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_OfficeArea8" class="fontfamily">3877.0000</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkCount8" class="fontfamily">71</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
+			<td align="center"><span id="ess_ctr5115_FDCJY_HouseTransactionStatist_ParkArea8" class="fontfamily">2535.9700</span></td></tr>
+			<tr bgcolor="#F9F4E8"><td height="20" colspan="2">&nbsp;</td></tr>
+		</table></td></tr>
+		
+</table>
+<table width="969"  border="0" cellpadding="0" cellspacing="0">
+	<tr><td height="10"><img src="/portals/0/bjfdc_images/bottom.gif" border="0" /></td></tr>
+</table>
+
+<script src="http://yhfx.beijing.gov.cn/webdig.js?z=5" type="text/javascript">
+</script>
+<script language="JavaScript">
+<!--
+   var BH = "00A5-0001";
+   wd_paramtracker("&Bh="+BH);
+//-->
+</script>
+</body>
+</html><!-- End_Module_5115 -->
+</div></td>
+</tr></tbody></table><a name="5112"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr5112_ContentPane" align="left"><!-- Start_Module_5112 --><div id="ess_ctr5112_ModuleContent">
+	
+<html>
+<head>
+    <title>存量房网上签约统计</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+    <style type="text/css">
+        <!
+        -- BODY
+        {
+            margin: 0px;
+        }
+        BODY
+        {
+            scrollbar-face-color: #eaeaea;
+            scrollbar-highlight-color: #ffffff;
+            scrollbar-shadow-color: #999999;
+            scrollbar-3dlight-color: #999999;
+            scrollbar-arrow-color: #999999;
+            scrollbar-darkshadow-color: #ffffff;
+            scrollbar-base-color: #cfcfcf;
+        }
+        textarea
+        {
+            scrollbar-face-color: #eaeaea;
+            scrollbar-highlight-color: #ffffff;
+            scrollbar-shadow-color: #999999;
+            scrollbar-3dlight-color: #999999;
+            scrollbar-arrow-color: #999999;
+            scrollbar-darkshadow-color: #ffffff;
+            scrollbar-base-color: #cfcfcf;
+        }
+        TD
+        {
+            font-size: 12px;
+        }
+        P
+        {
+            text-indent: 2em;
+        }
+        P
+        {
+            line-height: 150%;
+        }
+        .line18
+        {
+            line-height: 18px;
+        }
+        .line20
+        {
+            line-height: 20px;
+        }
+        .line22
+        {
+            line-height: 22px;
+        }
+        .f12a1
+        {
+            color: #000000;
+            text-decoration: none;
+        }
+        .f12a1:hover
+        {
+            color: #ff0000;
+            text-decoration: none;
+        }
+        .f12a2
+        {
+            color: #666666;
+            text-decoration: none;
+        }
+        .f12a2:hover
+        {
+            color: #ff0000;
+            text-decoration: none;
+        }
+        .f12a3
+        {
+            color: #FFFF00;
+            text-decoration: none;
+        }
+        .f12a3:hover
+        {
+            color: #FFFF00;
+            text-decoration: underline;
+        }
+        .f12a4
+        {
+            color: #CC0000;
+            text-decoration: none;
+        }
+        .f12a4:hover
+        {
+            color: #CC0000;
+            text-decoration: underline;
+        }
+        .f12a5
+        {
+            font-weight: bold;
+            color: #ffffff;
+            text-decoration: none;
+        }
+        .f12a5:hover
+        {
+            font-weight: bold;
+            color: #FFCC00;
+            text-decoration: underline;
+        }
+        .f12a6
+        {
+            font-weight: bold;
+            color: #FFFF00;
+            text-decoration: none;
+        }
+        .f12a6:hover
+        {
+            font-weight: bold;
+            color: #FFFF00;
+            text-decoration: underline;
+        }
+        .f12a7
+        {
+            font-weight: bold;
+            color: #cc6600;
+            text-decoration: none;
+        }
+        .f12a7:hover
+        {
+            font-weight: bold;
+            color: #ff0000;
+            text-decoration: underline;
+        }
+        .f14a1
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #990000;
+            text-decoration: none;
+        }
+        .f14a1:hover
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #ff0000;
+            text-decoration: underline;
+        }
+        .f14a2
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #003399;
+            text-decoration: none;
+        }
+        .f14a2:hover
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #ff0000;
+            text-decoration: underline;
+        }
+        .f14a3
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #666666;
+            text-decoration: none;
+        }
+        .f14a3:hover
+        {
+            font-size: 14px;
+            font-weight: bold;
+            color: #ff0000;
+            text-decoration: underline;
+        }
+        .f14a4
+        {
+            font-size: 14px;
+            color: #000000;
+        }
+        .title
+        {
+            font-size: 16px;
+            font-weight: bold;
+            color: #0052B8;
+        }
+        .tab
+        {
+            border-right: #666666 1px solid;
+            border-top: #666666 1px solid;
+            border-left: #666666 1px solid;
+            border-bottom: #666666 1px solid;
+            height: 15px;
+        }
+        .tab1
+        {
+            border-right: #666666 1px solid;
+            border-top: #666666 1px solid;
+            border-left: #666666 1px solid;
+            border-bottom: #666666 1px solid;
+        }
+        .fontfamily { font-family:宋体;}
+        -- ></style>
+</head>
+<body>
+    <table width="969" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="28" align="right" background="/portals/0/bjfdc_images/title02.gif">
+                <a href="#popup" name="popup_statistic_secondhouse_everyday" target="_blank" class="f12a1"
+                    id="popup_statistic_secondhouse_everyday">
+                    <!--历史数据查询...-->
+                </a>&nbsp;&nbsp;
+            </td>
+        </tr>
+
+        <script language="vbscript">
+		sub popup_statistic_secondhouse_everyday_onclick
+			window.open "/publicbjjs/statistic/popup_secondhouse_everyday.asp","存量房每日历史数据查询","width=550,height=150,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0"
+			window.event.returnvalue=false
+		end sub
+		
+		sub popup_secondhouse_info_everyday_onclick
+			window.Open "/publicbjjs/statistic/popup_secondhouse_everyday_info.asp","存量房每日历史数据详细","width=600,height=150,toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=0"
+			window.event.returnValue=false
+		end sub
+        </script>
+
+    </table>
+    <table cellspacing="5" cellpadding="0" width="969" border="0" style="border-left: #DBBF93 solid 1px;
+        border-right: #DBBF93 solid 1px;">
+        <tr>
+            <td width="25%">
+                <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                    <tr height="25">
+                        <td width="25%" align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2">
+                            可售房源统计
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            可售房源套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalCount" class="fontfamily">39098</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            可售房源面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalArea" class="fontfamily">3934386.5160</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            可售住宅套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceCount" class="fontfamily">36656</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            可售住宅面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%" bgcolor="#f9f4e8">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceArea" class="fontfamily">3536093.9760</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%">
+                <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                    <tr height="25">
+                        <td width="25%" align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_timeMark" class="fontfamily">2016-3-23</span>新发布房源
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            新发布房源套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalCount2" class="fontfamily">1520</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            新发布房源面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalArea2" class="fontfamily">137834.7700</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            新发布住宅套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceCount2" class="fontfamily">1395</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            新发布住宅面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%" bgcolor="#f9f4e8">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceArea2" class="fontfamily">129679.6400</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%">
+                <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                    <tr height="25">
+                        <td width="25%" align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_year" class="fontfamily">2016</span>年<span id="ess_ctr5112_FDCJY_SignOnlineStatistics_month" class="fontfamily">2</span>月存量房网上签约
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            网上签约套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalCount3" class="fontfamily">16583</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            网上签约面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalArea3" class="fontfamily">1520722.3100</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            住宅签约套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceCount3" class="fontfamily">15149</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            住宅签约面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%" bgcolor="#f9f4e8">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceArea3" class="fontfamily">1378375.7900</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+            <td width="25%">
+                <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                    <tr height="25">
+                        <td align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2" nowrap>
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_timeMark2" class="fontfamily">2016-3-23</span>存量房网上签约
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            网上签约套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalCount4" class="fontfamily">1583</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            网上签约面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_totalArea4" class="fontfamily">142130.9700</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            住宅签约套数：
+                        </td>
+                        <td align="middle" width="35%">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceCount4" class="fontfamily">1441</span>
+                        </td>
+                    </tr>
+                    <tr bgcolor="#f9f4e8">
+                        <td align="right" bgcolor="#f9f4e8" height="20">
+                            住宅签约面积(m<sup>2</sup>)：
+                        </td>
+                        <td align="middle" width="35%" bgcolor="#f9f4e8">
+                            <span id="ess_ctr5112_FDCJY_SignOnlineStatistics_residenceArea4" class="fontfamily">133057.8000</span>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <table width="969" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+            <td height="10">
+                <img src="/portals/0/bjfdc_images/bottom.gif" border="0">
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+<!-- End_Module_5112 -->
+</div></td>
+</tr></tbody></table><a name="5114"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr5114_ContentPane" align="left"><!-- Start_Module_5114 --><div id="ess_ctr5114_ModuleContent">
+	
+
+<HTML><HEAD>
+<TITLE>存量房网上签约月统计</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<style type="text/css">
+	<!--
+	BODY { MARGIN: 0px; }
+	BODY {SCROLLBAR-FACE-COLOR: #eaeaea;SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;SCROLLBAR-SHADOW-COLOR: #999999;SCROLLBAR-3DLIGHT-COLOR: #999999;SCROLLBAR-ARROW-COLOR: #999999;SCROLLBAR-DARKSHADOW-COLOR: #ffffff;SCROLLBAR-BASE-COLOR: #cfcfcf}
+	textarea {SCROLLBAR-FACE-COLOR: #eaeaea;SCROLLBAR-HIGHLIGHT-COLOR: #ffffff;SCROLLBAR-SHADOW-COLOR: #999999;SCROLLBAR-3DLIGHT-COLOR: #999999;SCROLLBAR-ARROW-COLOR: #999999;SCROLLBAR-DARKSHADOW-COLOR: #ffffff;SCROLLBAR-BASE-COLOR: #cfcfcf}
+	TD { FONT-SIZE: 12px }
+	P { TEXT-INDENT: 2em }
+	P { LINE-HEIGHT: 150% }
+	.line18 { LINE-HEIGHT: 18px }
+	.line20 { LINE-HEIGHT: 20px }
+	.line22 { LINE-HEIGHT: 22px }
+	.f12a1 { COLOR: #000000; TEXT-DECORATION: none }
+	.f12a1:hover { COLOR: #ff0000; TEXT-DECORATION: none }
+	.f12a2 { COLOR: #666666; TEXT-DECORATION: none }
+	.f12a2:hover { COLOR: #ff0000; TEXT-DECORATION: none }
+	.f12a3 { COLOR: #FFFF00; TEXT-DECORATION: none }
+	.f12a3:hover { COLOR: #FFFF00; TEXT-DECORATION: underline }
+	.f12a4 { COLOR: #CC0000; TEXT-DECORATION: none }
+	.f12a4:hover { COLOR: #CC0000; TEXT-DECORATION: underline }
+	.f12a5 { FONT-WEIGHT: bold; COLOR: #ffffff; TEXT-DECORATION: none }
+	.f12a5:hover { FONT-WEIGHT: bold; COLOR: #FFCC00; TEXT-DECORATION: underline }
+	.f12a6 { FONT-WEIGHT: bold; COLOR: #FFFF00; TEXT-DECORATION: none }
+	.f12a6:hover { FONT-WEIGHT: bold; COLOR: #FFFF00; TEXT-DECORATION: underline }
+	.f12a7 { FONT-WEIGHT: bold; COLOR: #cc6600; TEXT-DECORATION: none }
+	.f12a7:hover { FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a1 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #990000; TEXT-DECORATION: none }
+	.f14a1:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a2 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #003399; TEXT-DECORATION: none }
+	.f14a2:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a3 { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #666666; TEXT-DECORATION: none }
+	.f14a3:hover { FONT-SIZE: 14px;FONT-WEIGHT: bold; COLOR: #ff0000; TEXT-DECORATION: underline }
+	.f14a4 { FONT-SIZE: 14px; COLOR: #000000; }
+	.title { FONT-SIZE: 16px;FONT-WEIGHT: bold; COLOR: #0052B8; }
+	.tab {BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; HEIGHT: 15px }
+	.tab1 {BORDER-RIGHT: #666666 1px solid; BORDER-TOP: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BORDER-BOTTOM: #666666 1px solid; }
+	.fontfamily { font-family:宋体;}
+	-->
+</style>
+<script language="javascript" type="text/javascript">
+function imgClick1()
+{
+	document.getElementById("cmd_clf1").src="/portals/0/bjfdc_images/clftj1_over.gif";
+	document.getElementById("cmd_clf2").src="/portals/0/bjfdc_images/clftj2_down.gif";
+	document.getElementById("cmd_clf3").src="/portals/0/bjfdc_images/clftj3_down.gif";
+	document.getElementById("cmd_clf4").src="/portals/0/bjfdc_images/clftj4_down.gif";
+    window.table_clf1.style.display="";
+    window.table_clf2.style.display="none";
+	window.table_clf3.style.display="none";
+	window.table_clf4.style.display="none";
+}
+function imgClick2()
+{
+	document.getElementById("cmd_clf1").src="/portals/0/bjfdc_images/clftj1_down.gif";
+	document.getElementById("cmd_clf2").src="/portals/0/bjfdc_images/clftj2_over.gif";
+	document.getElementById("cmd_clf3").src="/portals/0/bjfdc_images/clftj3_down.gif";
+	document.getElementById("cmd_clf4").src="/portals/0/bjfdc_images/clftj4_down.gif";
+	window.table_clf1.style.display="none";
+	window.table_clf2.style.display="";
+	window.table_clf3.style.display="none";
+	window.table_clf4.style.display="none";
+}
+function imgClick3()
+{
+	document.getElementById("cmd_clf1").src="/portals/0/bjfdc_images/clftj1_down.gif";
+	document.getElementById("cmd_clf2").src="/portals/0/bjfdc_images/clftj2_down.gif";
+	document.getElementById("cmd_clf3").src="/portals/0/bjfdc_images/clftj3_over.gif";
+	document.getElementById("cmd_clf4").src="/portals/0/bjfdc_images/clftj4_down.gif";
+	window.table_clf1.style.display="none";
+	window.table_clf2.style.display="none";
+	window.table_clf3.style.display="";
+	window.table_clf4.style.display="none";
+}
+function imgClick4()
+{
+	document.getElementById("cmd_clf1").src="/portals/0/bjfdc_images/clftj1_down.gif";
+	document.getElementById("cmd_clf2").src="/portals/0/bjfdc_images/clftj2_down.gif";
+	document.getElementById("cmd_clf3").src="/portals/0/bjfdc_images/clftj3_down.gif";
+	document.getElementById("cmd_clf4").src="/portals/0/bjfdc_images/clftj4_over.gif";
+	window.table_clf1.style.display="none";
+	window.table_clf2.style.display="none";
+	window.table_clf3.style.display="none";
+	window.table_clf4.style.display="";
+}
+</script>
+</HEAD>
+
+<body>
+<table width="969"  border="0" cellpadding="0" cellspacing="0">
+	<tr><td height="28" align="right" background="/portals/0/bjfdc_images/title03.gif"></td>
+	</tr>
+</table>
+	<!--存量房网上签约成交月统计begin-->
+	<table cellspacing=0 cellpadding=0 width="969" border=0>
+		<tr bgcolor=#4a9ee0>
+			<td width=40 bgcolor="#4a9ee0">&nbsp;</td>
+			<td width=115 bgcolor="#4a9ee0"><img id="cmd_clf1" src="/portals/0/bjfdc_images/clftj1_down.gif" onclick="imgClick1()" style="cursor: hand"><img src="/portals/0/bjfdc_images/clftj1_over.gif" style="display:none; cursor:hand;"></td>
+			<td width=115 bgcolor="#4a9ee0"><img id="cmd_clf2" src="/portals/0/bjfdc_images/clftj2_over.gif" onclick="imgClick2()" style="cursor: hand"><img src="/portals/0/bjfdc_images/clftj2_down.gif" style="display:none; cursor:hand;"></td>
+			<td width=115 bgcolor="#4a9ee0"><img id="cmd_clf3" src="/portals/0/bjfdc_images/clftj3_over.gif" onclick="imgClick3()" style="cursor: hand"><img src="/portals/0/bjfdc_images/clftj3_down.gif" style="display:none; cursor:hand;"></td>
+			<td width=115 bgcolor="#4a9ee0"><img id="cmd_clf4" src="/portals/0/bjfdc_images/clftj4_over.gif" onclick="imgClick4()" style="cursor: hand"><img src="/portals/0/bjfdc_images/clftj4_down.gif" style="display:none; cursor:hand;"></td>
+			<td align="right" bgcolor="#4a9ee0" class="f12a5">(<span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_year" class="fontfamily">2016</span>年<span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_month" class="fontfamily">2</span>月统计结果)&nbsp;&nbsp;</td>
+		</tr></table>
+
+	<table cellspacing=0 cellpadding=0 width="969" border=0 id="table_clf1" style="border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
+		<tr><td><table width="100%" border="0" align="center" cellpadding="5" cellspacing="0">
+			<tr><td width="50%" height="140" valign="top">
+			
+					<table width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse;">
+						<tr bgcolor="#fae29a" align="center">
+						<td class="f12a1" style="line-height:12px;">序<br>号</td>
+						<td class="f12a1">房地产经纪机构名称</td>
+						<td class="f12a1" style="line-height:12px;">发布<br>套数</td>
+						<td class="f12a1" style="line-height:12px;">签约<br>套数</td>
+						<td class="f12a1" style="line-height:12px;">退房<br>套数</td></tr>
+				
+					<tr align="center">
+					<td height="20">1</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle" class="fontfamily">北京链家房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount" class="fontfamily">7156</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount" class="fontfamily">7644</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount" class="fontfamily">242</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">2</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle2" class="fontfamily">北京我爱我家房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount2" class="fontfamily">1831</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount2" class="fontfamily">1930</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount2" class="fontfamily">62</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">3</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle3" class="fontfamily">北京存房房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount3" class="fontfamily">655</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount3" class="fontfamily">746</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount3" class="fontfamily">48</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">4</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle4" class="fontfamily">北京麦田房产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount4" class="fontfamily">700</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount4" class="fontfamily">724</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount4" class="fontfamily">29</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">5</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle5" class="fontfamily">满懿（北京）房地产咨询有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount5" class="fontfamily">267</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount5" class="fontfamily">338</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount5" class="fontfamily">26</span></td></tr>
+				
+					</table></td>
+					<td width="50%" valign="top"><table width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse;">
+						<tr bgcolor="#fae29a" align="center">
+						<td style="line-height:12px;">序<br>号</td>
+						<td>房地产经纪机构名称</td>
+						<td style="line-height:12px;">发布<br>套数</td>
+						<td style="line-height:12px;">签约<br>套数</td>
+						<td style="line-height:12px;">退房<br>套数</td></tr>
+				
+					<tr align="center">
+					<td height="20">6</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle6" class="fontfamily">北京金色时光房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount6" class="fontfamily">185</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount6" class="fontfamily">237</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount6" class="fontfamily">32</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">7</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle7" class="fontfamily">北京华熙房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount7" class="fontfamily">158</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount7" class="fontfamily">198</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount7" class="fontfamily">6</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">8</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle8" class="fontfamily">北京中原房地产经纪有限公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount8" class="fontfamily">125</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount8" class="fontfamily">154</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount8" class="fontfamily">13</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">9</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle9" class="fontfamily">北京市易合房地产经纪有限责任公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount9" class="fontfamily">57</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount9" class="fontfamily">96</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount9" class="fontfamily">4</span></td></tr>
+				
+					<tr align="center">
+					<td height="20">10</td>
+					<td align="left"><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_itemTitle10" class="fontfamily">北京博爱房地产经纪有限责任公司</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount10" class="fontfamily">66</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount10" class="fontfamily">78</span></td>
+					<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_calloffCount10" class="fontfamily">2</span></td></tr>
+				
+		</table></td></tr>
+		
+		<!--<tr><td height="20" colspan="2" align="right" class="f12a3">（机构排列依照签约套数排序）[<a href="statistic/jjtop.asp" class="f12a3">查看更多</a>]</td></tr>-->
+	</table></td></tr>
+</table>
+	
+<!--按所在区县-->
+
+
+<table width="969" border=0 cellpadding=5 cellspacing=0 id="table_clf2" style="display:none; border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
+	<tr><td height="140" valign="top"><table width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse">
+				<tr bgcolor="#fae29a" align="center">
+				<td width="80" height="20" bgcolor="#fae29a" class="f12a1">区&nbsp;&nbsp;&nbsp;&nbsp;县</td>
+				<td class="f12a1">全　市</td>
+				<td class="f12a1">东　城</td>
+				<td class="f12a1">西　城</td>
+				<td class="f12a1">崇　文</td>
+				<td bgcolor="#fae29a" class="f12a1">宣　武</td>
+				<td class="f12a1">朝　阳</td>
+				<td class="f12a1">海　淀</td>
+				<td class="f12a1">丰　台</td>
+				<td class="f12a1">石景山</td>
+				<td class="f12a1">通　州</td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">套&nbsp;&nbsp;&nbsp;&nbsp;数</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount11" class="fontfamily">16583</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount12" class="fontfamily">712</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount13" class="fontfamily">1032</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount14" class="fontfamily"></span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount15" class="fontfamily"></span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount16" class="fontfamily">4636</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount17" class="fontfamily">2049</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount18" class="fontfamily">1685</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount19" class="fontfamily">433</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount20" class="fontfamily">674</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea11" class="fontfamily">1520722.31</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea12" class="fontfamily">54606.1400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea13" class="fontfamily">71529.5200</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea14" class="fontfamily"></span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea15" class="fontfamily"></span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea16" class="fontfamily">420557.5200</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea17" class="fontfamily">180860.9800</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea18" class="fontfamily">135842.4400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea19" class="fontfamily">32050.4600</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea20" class="fontfamily">66018.6100</span></td>
+				</tr>
+				<tr bgcolor="#fae29a" align="center">
+				<td height="20" class="f12a1">区&nbsp;&nbsp;&nbsp;&nbsp;县</td>
+				<td class="f12a1">房　山</td>
+				<td class="f12a1">顺　义</td>
+				<td class="f12a1">门头沟</td>
+				<td class="f12a1">大　兴</td>
+				<td class="f12a1">怀　柔</td>
+				<td class="f12a1">密　云</td>
+				<td class="f12a1">昌　平</td>
+				<td class="f12a1">延　庆</td>
+				<td class="f12a1">平　谷</td>
+				<td class="f12a1">开发区</td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">套&nbsp;&nbsp;&nbsp;&nbsp;数</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount21" class="fontfamily">726</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount22" class="fontfamily">922</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount23" class="fontfamily">140</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount24" class="fontfamily">895</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount25" class="fontfamily">135</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount26" class="fontfamily">444</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount27" class="fontfamily">1579</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount28" class="fontfamily">112</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount29" class="fontfamily">209</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount30" class="fontfamily">200</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea21" class="fontfamily">64198.3100</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea22" class="fontfamily">132835.1500</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea23" class="fontfamily">11330.6500</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea24" class="fontfamily">82370.4800</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea25" class="fontfamily">12868.5400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea26" class="fontfamily">41188.4300</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea27" class="fontfamily">164830.5300</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea28" class="fontfamily">10380.8400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea29" class="fontfamily">20066.0300</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea30" class="fontfamily">19187.6800</span></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+</table>
+
+	<!--按建筑面积-->
+	<table cellspacing=0 cellpadding=5 width="969" border=0 id="table_clf3" style="display:none; border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
+	<tbody>
+		<tr>
+			<td height="140" valign="top">
+			<table width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse">
+				<tr bgcolor="#fae29a" align="center">
+				<td width="150" height="20" bgcolor="#fae29a" class="f12a1">面　　积</td>
+				<td class="f12a1">60m<sup>2</sup>以下</td>
+				<td class="f12a1">60～80m<sup>2</sup></td>
+				<td class="f12a1">80～100m<sup>2</sup></td>
+				<td class="f12a1">100～120m<sup>2</sup></td>
+				<td bgcolor="#fae29a" class="f12a1">120～140m<sup>2</sup></td>
+				<td class="f12a1">140m<sup>2</sup>以上</td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">发布套数<!--(按拟售价格)--></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount11" class="fontfamily">3564</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount12" class="fontfamily">3067</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount13" class="fontfamily">2837</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount14" class="fontfamily">1341</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount15" class="fontfamily">1015</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount16" class="fontfamily">1293</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">发布面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea11" class="fontfamily">172684.1900</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea12" class="fontfamily">211370.2800</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea13" class="fontfamily">255258.7000</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea14" class="fontfamily">145986.4000</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea15" class="fontfamily">131548.2300</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea16" class="fontfamily">246898.1700</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交套数<!--(按成交价格)--></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount31" class="fontfamily">4490</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount32" class="fontfamily">3718</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount33" class="fontfamily">3685</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount34" class="fontfamily">1812</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount35" class="fontfamily">1280</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount36" class="fontfamily">1598</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea31" class="fontfamily">213579.0500</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea32" class="fontfamily">256212.0400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea33" class="fontfamily">331443.9500</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea34" class="fontfamily">196880.6100</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea35" class="fontfamily">165815.3100</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea36" class="fontfamily">356791.3500</span></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+
+<!--按房屋价格-->
+	<table cellspacing=0 cellpadding=5 width="969" border=0 id="table_clf4" style="display:none; border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
+	<tbody>
+		<tr>
+			<td height="140" valign="top">
+			<table width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse">
+				<tr bgcolor="#fae29a" align="center">
+				<td width="150" height="20" bgcolor="#fae29a" class="f12a1">价　　格</td>
+				<td class="f12a1">60万以下</td>
+				<td class="f12a1">60～90万</td>
+				<td class="f12a1">90～120万</td>
+				<td class="f12a1">120～150万</td>
+				<td bgcolor="#fae29a" class="f12a1">150～200万</td>
+				<td class="f12a1">200万以上</td>
+				</tr>
+				
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">发布套数(按拟售价格)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount17" class="fontfamily">516</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount18" class="fontfamily">511</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount19" class="fontfamily">1208</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount20" class="fontfamily">1133</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount21" class="fontfamily">2578</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishCount22" class="fontfamily">7171</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">发布面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea17" class="fontfamily">22880.7000</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea18" class="fontfamily">30828.6400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea19" class="fontfamily">95421.6600</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea20" class="fontfamily">82395.9700</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea21" class="fontfamily">199904.1300</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_publishArea22" class="fontfamily">732314.8700</span></td>
+				</tr>
+				
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交套数(按成交价格)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount37" class="fontfamily">1395</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount38" class="fontfamily">1068</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount39" class="fontfamily">1872</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount40" class="fontfamily">3189</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount41" class="fontfamily">2612</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractCount42" class="fontfamily">6447</span></td>
+				</tr>
+				<tr align="center">
+				<td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea37" class="fontfamily">73167.2700</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea38" class="fontfamily">70564.3100</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea39" class="fontfamily">134155.4000</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea40" class="fontfamily">240307.4400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea41" class="fontfamily">218522.9400</span></td>
+				<td><span id="ess_ctr5114_FDCJY_SignOnlineMonthStatistics_contractArea42" class="fontfamily">784004.9500</span></td>
+				</tr>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+	</table>
+<table width="969"  border="0" cellpadding="0" cellspacing="0">
+	<tr><td height="10"><img src="/portals/0/bjfdc_images/bottom.gif" border="0"></td></tr>
+</table>
+  <!--存量房网上签约成交月统计end-->
+</body>
+</html>
+<!-- End_Module_5114 -->
+</div></td>
+</tr></tbody></table><a name="5964"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr5964_ContentPane" align="left"><!-- Start_Module_5964 --><div id="ess_ctr5964_ModuleContent">
+	
+<style type="text/css">
+.titletr
+{
+	background-color:#fae29a;
+	text-align:center;
+}
+.desctr
+{
+	background-color:#FFFFFF;
+	text-align:center;
+}
+
+.lantitletr
+{
+	background-color:#fae29a;
+	text-align:center;
+	line-height:23px;
+}
+.landesctr
+{
+	background-color:#FFFFFF;
+	text-align:center;
+	line-height:23px;
+}
+</style>
+<table width="100%">
+    <tr>
+        <td>
+            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#4A9EE0">
+                <tr>
+                    <td width="100%">
+                        <img src="/Portals/0/bjfdc_images/renttj_tit.gif" width="350" height="30">
+                    </td>
+                </tr>
+            </table>
+            <table cellspacing="3" cellpadding="0" width="100%" bgcolor="#4a9ee0" border="0">
+                <tr>
+                    <td width="25%">
+                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                            <tr height="25">
+                                <td width="25%" style="font-weight: bold; color: Blue;" align="center" bgcolor="#f2e8d0"
+                                    class="f14a2" colspan="2">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_year1">2015</span>年<span id="ess_ctr5964_FDCJY_ZPHT_month1">12</span>月<br />
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_title1">居住类居间租赁合同</span>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报件数：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractCount1" style="font-size: 12px">714</span>件
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报面积：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractArea1">72744.18</span>m<sup>2</sup>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="25%">
+                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                            <tr height="25">
+                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
+                                    class="f14a2" colspan="2">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_year2">2015</span>年<span id="ess_ctr5964_FDCJY_ZPHT_month2">12</span>月<br />
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_title2">居住类代理租赁合同</span>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报件数：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractCount2">0</span>件
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报面积：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractArea2">0.00</span>m<sup>2</sup>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td width="25%">
+                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                            <tr height="25">
+                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
+                                    class="f14a2" colspan="2">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_year3">2015</span>年<span id="ess_ctr5964_FDCJY_ZPHT_month3">12</span>月<br />
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_title3">居住类出租代理合同</span>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报件数：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractCount3">23</span>件
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报面积：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractArea3">1963.06</span>m<sup>2</sup>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                    <td>
+                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
+                            <tr height="25">
+                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
+                                    class="f14a2" colspan="2">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_year4">2015</span>年<span id="ess_ctr5964_FDCJY_ZPHT_month4">12</span>月<br />
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_title4">非居住房屋租赁合同</span>
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报件数：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractCount4">0</span>件
+                                </td>
+                            </tr>
+                            <tr bgcolor="#f9f4e8">
+                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
+                                    网上申报面积：
+                                </td>
+                                <td align="middle" style="font-size: 12px">
+                                    <span id="ess_ctr5964_FDCJY_ZPHT_totalContractArea4">0.00</span>m<sup>2</sup>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr style="height: 5px">
+        <td>
+        </td>
+    </tr>
+    <tr >
+        <td>
+            
+            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+               <tr>
+               <td width="100%">
+               <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#4A9EE0">
+                            <tr>
+                                <td colspan="5">
+                                    <img src="/Portals/0/bjfdc_images/rentytj_tit.gif">
+                                </td>
+                            </tr>
+                            <tr>
+                                <td width="5%">
+                                    &nbsp;
+                                </td>
+                                <td width="15%">
+                                    <img id="ccmd_rent1" src="/Portals/0/bjfdc_images/clftj1_over.gif" onclick="ImgOnclick1()" style="cursor: hand">
+                                </td>
+                                <td width="15%">
+                                    <img id="ccmd_rent2" src="/Portals/0/bjfdc_images/clftj2_down.gif" onclick="ImgOnclick2()" style="cursor: hand">
+                                </td>
+                                <td width="15%">
+                                    <img id="ccmd_rent3" src="/Portals/0/bjfdc_images/clftj3_down.gif" onclick="ImgOnclick3()" style="cursor: hand">
+                                </td>
+                                <td align="right" class="f12a6" style="font-size:12px;color:Yellow">
+                                     (<span id="ess_ctr5964_FDCJY_ZPHT_Dateyear">2015</span>年<span id="ess_ctr5964_FDCJY_ZPHT_DateMonth">12</span>月统计结果)&nbsp;&nbsp;
+                                </td>
+                            </tr>
+                        </table></td>
+               </tr>
+                <tr>
+                    <td width="100%">
+                        
+                        <script type="text/javascript">
+                            function ImgOnclick1() {
+                                document.getElementById("ccmd_rent1").src = "/Portals/0/bjfdc_images/clftj1_over.gif";
+                                document.getElementById("ccmd_rent2").src = "/Portals/0/bjfdc_images/clftj2_down.gif";
+                                document.getElementById("ccmd_rent3").src = "/Portals/0/bjfdc_images/clftj3_down.gif";
+                                document.getElementById("ttable_rent1").style.display = "";
+                                document.getElementById("ttable_rent2").style.display = "none";
+                                document.getElementById("ttable_rent3").style.display = "none";
+                            }
+                            function ImgOnclick2() {
+                                document.getElementById("ccmd_rent1").src = "/Portals/0/bjfdc_images/clftj1_down.gif";
+                                document.getElementById("ccmd_rent2").src = "/Portals/0/bjfdc_images/clftj2_over.gif";
+                                document.getElementById("ccmd_rent3").src = "/Portals/0/bjfdc_images/clftj3_down.gif";
+                                document.getElementById("ttable_rent1").style.display = "none";
+                                document.getElementById("ttable_rent2").style.display = "";
+                                document.getElementById("ttable_rent3").style.display = "none";
+                            }
+                            function ImgOnclick3() {
+                                document.getElementById("ccmd_rent1").src = "/Portals/0/bjfdc_images/clftj1_down.gif";
+                                document.getElementById("ccmd_rent2").src = "/Portals/0/bjfdc_images/clftj2_down.gif";
+                                document.getElementById("ccmd_rent3").src = "/Portals/0/bjfdc_images/clftj3_over.gif";
+                                document.getElementById("ttable_rent1").style.display = "none";
+                                document.getElementById("ttable_rent2").style.display = "none";
+                                document.getElementById("ttable_rent3").style.display = "";
+                            }
+                        </script>
+                        <!--按经纪机构-->
+                        <table width="100%" border="0"  align="center" cellpadding="2" cellspacing="0" bgcolor="#4a9ee0"
+                            id="ttable_rent1">
+                            <tr>
+                                <td width="50%">
+                                    <table id="ess_ctr5964_FDCJY_ZPHT_jj1" width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse;font-size:12px">
+		<tr class="titletr">
+			<td>序号</td>
+			<td>房地产经纪机构名称</td>
+			<td>件数</td>
+			<td>面积</td>
+		</tr>
+		<tr class="desctr">
+			<td>1</td>
+			<td style="text-aglin:left;">北京中原房地产经纪有限公司</td>
+			<td>668</td>
+			<td>68110.60</td>
+		</tr>
+		<tr class="desctr">
+			<td>2</td>
+			<td style="text-aglin:left;">北京中天置地房地产经纪有限公司</td>
+			<td>23</td>
+			<td>1963.06</td>
+		</tr>
+		<tr class="desctr">
+			<td>3</td>
+			<td style="text-aglin:left;">北京金城阜业房地产经纪有限公司</td>
+			<td>18</td>
+			<td>1287.86</td>
+		</tr>
+		<tr class="desctr">
+			<td>4</td>
+			<td style="text-aglin:left;">北京思源创新房地产经纪有限公司</td>
+			<td>12</td>
+			<td>1635.73</td>
+		</tr>
+		<tr class="desctr">
+			<td>5</td>
+			<td style="text-aglin:left;">北京万年家和房地产经纪有限公司</td>
+			<td>10</td>
+			<td>1041.46</td>
+		</tr>
+	</table>
+	
+                                </td>
+                                <td width="50%">
+                                    <table id="ess_ctr5964_FDCJY_ZPHT_jj2" width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse;font-size:12px">
+		<tr class="titletr">
+			<td>序号</td>
+			<td>房地产经纪机构名称</td>
+			<td>件数</td>
+			<td>面积</td>
+		</tr>
+		<tr class="desctr">
+			<td>6</td>
+			<td style="text-aglin:left;">北京龙筑房地产经纪有限公司</td>
+			<td>4</td>
+			<td>550.86</td>
+		</tr>
+		<tr class="desctr">
+			<td>7</td>
+			<td style="text-aglin:left;">北京丽兹行房地产投资顾问有限公司</td>
+			<td>2</td>
+			<td>117.67</td>
+		</tr>
+		<tr class="desctr">
+			<td>8</td>
+			<td style="text-aglin:left;">北京瀚联颐家房地产经纪有限公司</td>
+			<td>0</td>
+			<td>0.00</td>
+		</tr>
+		<tr class="desctr">
+			<td>9</td>
+			<td style="text-aglin:left;">北京协宏房地产经纪有限公司</td>
+			<td>0</td>
+			<td>0.00</td>
+		</tr>
+		<tr class="desctr">
+			<td>10</td>
+			<td style="text-aglin:left;">北京红山世家房地产经纪有限公司</td>
+			<td>0</td>
+			<td>0.00</td>
+		</tr>
+	</table>
+	
+                                </td>
+                            </tr>
+                            <tr>
+                                <td height="20" colspan="2" align="right" style="font-size:12px;color:Yellow">
+                                    （备注：按件数降序排列，件数相同按面积降序排列。[<!--<a href="statistic/jjtop_rent.asp" class="f12a3">-->查看更多<!--</a>-->]）
+                                </td>
+                            </tr>
+                        </table>
+                        <!--按区县-->
+                        <table width="100%" style="display:none" border="0"  cellpadding="2" cellspacing="0" bgcolor="#4a9ee0"
+                            id="ttable_rent2" >
+                            <tr>
+                                <td>
+                                    <table id="ess_ctr5964_FDCJY_ZPHT_qx" width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse;font-size:12px">
+		<tr class="lantitletr">
+			<td>区    县</td>
+			<td>北京市</td>
+			<td>东城区</td>
+			<td>西城区</td>
+			<td>崇文区</td>
+			<td>宣武区</td>
+			<td>朝阳区</td>
+			<td>海淀区</td>
+			<td>丰台区</td>
+			<td>石景山区</td>
+			<td>通州区</td>
+		</tr>
+		<tr class="landesctr">
+			<td style="background-color:#fae29a;">套    数</td>
+			<td>778</td>
+			<td>19</td>
+			<td>20</td>
+			<td>76</td>
+			<td>46</td>
+			<td>224</td>
+			<td>283</td>
+			<td>55</td>
+			<td>23</td>
+			<td>0</td>
+		</tr>
+		<tr class="landesctr">
+			<td style="background-color:#fae29a;">成交面积(m<sup>2</sup>)</td>
+			<td>154482.32</td>
+			<td>3683.70</td>
+			<td>1880.17</td>
+			<td>9090.59</td>
+			<td>4444.76</td>
+			<td>34819.65</td>
+			<td>59461.60</td>
+			<td>5002.46</td>
+			<td>1822.08</td>
+			<td>0.00</td>
+		</tr>
+		<tr class="lantitletr">
+			<td>区    县</td>
+			<td>房山区</td>
+			<td>顺义区</td>
+			<td>门头沟区</td>
+			<td>大兴区</td>
+			<td>怀柔区</td>
+			<td>密云县</td>
+			<td>昌平区</td>
+			<td>延庆县</td>
+			<td>平谷区</td>
+			<td>开发区</td>
+		</tr>
+		<tr class="landesctr">
+			<td style="background-color:#fae29a;">套    数</td>
+			<td>0</td>
+			<td>7</td>
+			<td>18</td>
+			<td>0</td>
+			<td>1</td>
+			<td>4</td>
+			<td>2</td>
+			<td>0</td>
+			<td>0</td>
+			<td>0</td>
+		</tr>
+		<tr class="landesctr">
+			<td style="background-color:#fae29a;">成交面积(m<sup>2</sup>)</td>
+			<td>0.00</td>
+			<td>728.00</td>
+			<td>1287.86</td>
+			<td>0.00</td>
+			<td>31421.95</td>
+			<td>550.86</td>
+			<td>288.64</td>
+			<td>0.00</td>
+			<td>0.00</td>
+			<td>0.00</td>
+		</tr>
+	</table>
+	
+                                </td>
+                            </tr>
+                        </table>
+                        <!--按建筑面积-->
+                        <table cellspacing="0" style="display:none" cellpadding="2" width="100%" border="0" bgcolor="#4a9ee0"
+                            id="ttable_rent3" >
+                            <tr>
+                                <td>
+                                    <table id="ess_ctr5964_FDCJY_ZPHT_jzmj" width="100%" border="1" align="center" cellpadding="2" cellspacing="0" bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse;font-size:12px">
+		<tr class="lantitletr">
+			<td>面 积</td>
+			<td>60m<sup>2</sup>以下</td>
+			<td>60～80m<sup>2</sup></td>
+			<td>80～100m<sup>2</sup></td>
+			<td>100～120m<sup>2</sup></td>
+			<td>120～140m<sup>2</sup></td>
+			<td>140m<sup>2</sup>以上</td>
+		</tr>
+		<tr class="landesctr">
+			<td style="background-color:#fae29a;">套 数</td>
+			<td>145</td>
+			<td>160</td>
+			<td>151</td>
+			<td>86</td>
+			<td>76</td>
+			<td>160</td>
+		</tr>
+	</table>
+	
+                    </td>
+                   
+                </tr>
+            </table>
+            </td></tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<!-- End_Module_5964 -->
+</div></td>
+</tr></tbody></table></div>
+</div>
+
+
+
+
+
+<div id="ess_bottomPane" class="copyright"><a name="5241"></a>
+<div width="100%" align="left"></div>
+<table cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<tbody>
+<tr>
+<td id="ess_ctr5241_ContentPane" align="left"><!-- Start_Module_5241 --><div id="ess_ctr5241_ModuleContent">
+	<span id="ess_ctr5241_HtmlModule_lblContent" class="Normal"><center> <table class="shenjiweihu" style="MARGIN-TOP: 15px" border="0" cellspacing="0" cellpadding="0" width="1000" align="center"> <tbody> <tr> <td class="title2013" height="25" align="right">友情链接：</td>  <td width="296" align="middle"><select style="BORDER-BOTTOM: #dbdada 1px solid; BORDER-LEFT: #dbdada 1px solid; WIDTH: 285px; HEIGHT: 20px; BORDER-TOP: #dbdada 1px solid; BORDER-RIGHT: #dbdada 1px solid" class="input4" onchange="javascript:window.open(this.options[this.selectedIndex].value)" size="1" name="select8"> <option selected="">市政府机构网站</option> <option value="http://www.beijing.gov.cn/sdzcwzqdh_1/bgtlzhym/default.htm">市政府办公厅</option> <option value="http://www.bjpc.gov.cn/">市发展改革委</option> <option value="http://www.bjedu.gov.cn/">市教委</option> <option value="http://www.bjkw.gov.cn/">市科委</option> <option value="http://www.bjethnic.gov.cn/">市民委</option> <option value="http://www.bjgaj.gov.cn/">市公安局</option> <option value="http://www.bjsupervision.gov.cn/">市监察局</option> <option value="http://www.bjmzj.gov.cn/">市民政局</option> <option value="http://www.bjsf.gov.cn/">市司法局</option> <option value="http://www.bjcz.gov.cn/">市财政局</option>  <option value="http://www.bjgtj.gov.cn/">市国土局</option> <option value="http://www.bjghw.gov.cn/">市规划委</option> <option value="http://www.bjrbj.gov.cn/">市人力社保局</option> <option value="http://www.bjmac.gov.cn/index.jsp">市市政市容管理委员会</option> <option value="http://www.bjjtw.gov.cn/">市交通委</option> <option value="http://www.bjwater.gov.cn/">市水务局</option> <option value="http://www.bjnw.gov.cn/">市农委</option> <option value="http://www.bjmbc.gov.cn/">市商务委</option> <option value="http://www.bjta.gov.cn/">市旅游委</option><option value="http://www.bjwh.gov.cn/index.htm">市文化局</option> <option value="http://www.bjchfp.gov.cn/">市卫生计生委</option> <option value="http://www.bjab.gov.cn/">市审计局</option> <option value="http://www.bjfao.gov.cn/">市政府外办</option> <option value="http://www.bjgzw.gov.cn/">市国资委</option> <option value="http://www.tax861.gov.cn/">市地税局</option> <option value="http://www.hd315.gov.cn/">市工商局</option> <option value="http://www.bjtsb.gov.cn/">市质量技术监督局</option> <option value="http://www.bjepb.gov.cn/">市环保局</option> <option value="http://www.bjid.gov.cn/">市经济信息化委</option> <option value="http://www.bjny.gov.cn/">市农业局</option> <option value="http://www.bjrt.gov.cn/jump.html">市新闻出版广电局</option>  <option value="http://www.bjww.gov.cn/">市文物局</option> <option value="http://www.bjsports.gov.cn/">市体育局</option> <option value="http://www.bjstats.gov.cn/">市统计局</option> <option value="http://www.bjyl.gov.cn/">市园林绿化局</option> <option value="http://www.bjda.gov.cn/">市食品药品监管局</option> <option value="http://www.bjsafety.gov.cn/">市安全生产监督局</option> <option value="http://www.bjqb.gov.cn/">市政府侨办</option> <option value="http://www.bjfzb.gov.cn/">市政府法制办</option> <option value="http://www.bjxfb.gov.cn/">市信访办</option> <option value="http://www.bjyjs.gov.cn/">市政府研究室</option> <option value="http://www.bjrf.gov.cn/">市民防局</option></select></td> <td width="296" align="middle"><select style="BORDER-BOTTOM: #dbdada 1px solid; BORDER-LEFT: #dbdada 1px solid; WIDTH: 285px; HEIGHT: 20px; BORDER-TOP: #dbdada 1px solid; BORDER-RIGHT: #dbdada 1px solid" class="input4" onchange="javascript:window.open(this.options[this.selectedIndex].value)" size="1" name="select8"> <option selected="">各区县建委网站</option> <option value="http://jsw.bjdch.gov.cn/n5687274/n5723322/index.html">东城区住房城乡建设委</option><option value="http://dchfgj.bjdch.gov.cn/n5687274/n5723288/index.html">东城区房管局</option> <option value="http://zjw.bjxch.gov.cn/">西城区住房城乡建设委</option><option value="http://fgj.bjxch.gov.cn/">西城区房管局</option> <option value="http://jianwei.bjchy.gov.cn/sub/windex.jsp">朝阳区住房城乡建设委</option><option value="http://fgj.bjchy.gov.cn/">朝阳区房管局</option> <option value="http://hdzjw.bjhd.gov.cn/">海淀区住房城乡建设委</option><option value="http://hdfgj.bjhd.gov.cn/">海淀区房管局</option> <option value="http://zjw.bjft.gov.cn/">丰台区住房城乡建设委</option><option value="http://fgj.bjft.gov.cn/">丰台区房管局</option> <option value="http://www.sjsjs.gov.cn/index/index_new.aspx">石景山区住房城乡建设委</option><option value="http://www.bjmtg.gov.cn/info/img_txt.jsp?id=1635&amp;cate=zwgk">门头沟区住房城乡建设委</option> <option value="http://zjw.bjfsh.gov.cn/">房山区住房城乡建设委</option> <option value="http://jw.bjtzh.gov.cn/">通州区住房城乡建设委</option> <option value="http://www.jianwei.bjshy.gov.cn/">顺义区住房城乡建设委</option> <option value="http://www.dxjw.gov.cn/web/jw/">大兴区住房城乡建设委</option><option value="http://cpzjw.bjchp.gov.cn/">昌平区住房城乡建设委</option> <option value="http://www.pgjs.gov.cn/">平谷区住房城乡建设委</option> <option value="http://bjhrjw.bjhr.gov.cn/">怀柔区住房城乡建设委</option> <option value="http://jw.bjmy.gov.cn/">密云县住房城乡建设委</option> <option value="http://www.bjyq.gov.cn/zwgk/jgzn/jw/dwjj/">延庆县住房城乡建设委</option><option value="http://jfj.bda.gov.cn/cms/jgzn.htm">经济技术开发区</option></select></td> <td width="5"></td><td width="296" align="middle">&nbsp;</td></tr></tbody></table></center> 
+<center><span id="liststyle2"> 
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center"> <tbody> <tr> <td style="COLOR: #e6e6e6; FONT-SIZE: 12px" height="23" align="middle" width="920"><a title="" href="/tabid/2016/Default.aspx" target="_blank">服务承诺</a>&nbsp;|&nbsp;<a title="" href="/tabid/679/Default.aspx" target="_blank">联系我们</a>&nbsp;|&nbsp;<a title="" href="/tabid/680/Default.aspx" target="_blank">网管信箱</a>&nbsp;|&nbsp;<a title="" href="/tabid/678/Default.aspx" target="_blank">网站声明</a>&nbsp;|&nbsp;<a title="" href="/tabid/688/Default.aspx" target="_blank">网站导航</a>&nbsp;|&nbsp;<a title="" href="/tabid/2082/Default.aspx" target="_blank">网站维护</a> 
+<div style="DISPLAY: none">
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F9ac0f18d7ef56c69aaf41ca783fcb10c' type='text/javascript'%3E%3C/script%3E"));
+</script>
+ </div>
+</td>
+<td align="center" rowspan="3" width="80">
+
+<script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript   src='http://dcs.conac.cn/js/01/000/0000/60426125/CA010000000604261250004.js' type='text/javascript'%3E%3C/script%3E"));</script>
+
+</td>
+</tr>
+ <tr> <td height="23" align="middle">主办：北京市住房和城乡建设委员会&nbsp;承办：北京市住房和城乡建设信息中心&nbsp;&nbsp;备案编号：<a href="http://www.miibeian.gov.cn/"><font class="copyrightfont">京ICP备05083563号</font></a>&nbsp;&nbsp;京公网安备110401300020号 </td></tr> 
+ <tr><td height="23" align="middle">推荐使用Internet Explorer 6.0 以上版本Web浏览器，1024*768或更高分辨率</td></tr>
+
+</tbody></table></span></center></span>
+<!-- End_Module_5241 -->
+</div></td>
+</tr></tbody></table></div>
+
+        <input name="ScrollTop" type="hidden" id="ScrollTop" />
+        <input name="__essVariable" type="hidden" id="__essVariable" />
+    <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" /></form>
+</body>
+</html>
