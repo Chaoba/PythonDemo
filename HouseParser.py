@@ -41,7 +41,7 @@ from leancloud import Object
 
 class HouseParser:
     def __init__(self):
-        self.Url = "http://www.bjjs.gov.cn/tabid/2167/default.aspx?COLLCC=2389390305&COLLCC=2937872865&"
+        self.Url = "http://www.bjjs.gov.cn/bjjs/fwgl/fdcjy/fwjy/index.shtml"
         self.jsonBean = {}
         self.commercial_title = ['可售期房统计', '预售许可', '期房网上认购', '期房网上签约', '未签约现房统计', '现房项目情况',
                                  '现房网上认购', '现房网上签约']
@@ -80,14 +80,14 @@ class HouseParser:
         if content:
             print'Start to parse content'
             commercial_bean = {}
-            pattern = re.compile(r'<tr[^<>]+><td[^<>]+><span[^<>]+>([^<>]+)</span>')
+            pattern = re.compile(r'<tr.*><td[^<>]+>\S+：(\S+)</td>'.decode("utf8"))
             date = pattern.search(content)
             if date:
                 commercial_bean['date'] = date.group(1)
                 self.jsonBean['t'] = time.mktime(time.strptime(date.group(1), '%Y-%m-%d')) * 1000
 
             commercial = re.findall(
-                    r'<tr[^<>]+><td[^<>]+>([^<>(：]+).*</td>\s+<td[^<>]+><span [^<>]+>([^<>]+).*</span></td></tr>'.decode(
+                    r'[^-]<tr[^<>]+><td[^<>]+>([^<>(：]+).*</td>\s+<td[^<>]+>([^<>]+)</td></tr>'.decode(
                             "utf8"),
                     content)
             if commercial:
@@ -111,7 +111,7 @@ class HouseParser:
                 commercial_bean['items'] = items_queue
                 self.jsonBean['c'] = commercial_bean
             stock = re.findall(
-                    r'<tr[^<>]+>\s*<td[^<>]+>([^<>(：]+).*\s+</td>\s+<td[^<>]+>\s+<span[^<>]+>([^<>]+)</span>\s+'.decode(
+                    r'<tr[^<>]+>\s*<td[^<>]+>([^<>(：]+).*\s+</td>\s+<td[^<>]+>\s+([^<>]+)'.decode(
                             "utf8"),
                     content)
             if stock:
