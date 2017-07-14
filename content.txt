@@ -1,8 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
  <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><title>房屋交易</title>
-<meta  name="createDate" content="2017-01-11 13:09:09" />
-<meta  name="cacheclearDate" content="2017-01-10 10:21:30"/>
+<meta  name="createDate" content="2017-07-15 06:39:07" />
+<meta  name="cacheclearDate" content="2017-07-13 17:58:57"/>
 <meta  name="version" content="7.9.7"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="keywords"  content="北京市住房和城乡建设委员会,市住房城乡建设委,北京市建设委员会,市建委,北京建设网" />
@@ -33,7 +33,7 @@
 	<input type="hidden" id="currentLoginMemberName"  value="" />
 	<input type="hidden" id="behaviourAnalysisSiteId"  value="" />
 			<input type="hidden" id="portalLastRequestUrl"  value="" />
-	<input type="hidden" id="portalJsessionId"  value="2A8FF25EEAB181B17D8298F8FDDAF9F3" />
+	<input type="hidden" id="portalJsessionId"  value="84A946AA6DED3766CEAF5DFBE9EF09F6" />
 </div><style type="text/css">
 /*header*/
 .header_bg{ width:100%; min-width:1200px; width:expression_r(document.body.clientWidth < 1200 ? "1200px": "auto" ); background:url(/bjjs/template/common/index_header/banner.jpg) no-repeat top center;}
@@ -52,7 +52,7 @@
 <div class="header_bg">
 	<div class="header">
         <div class="top_menu">
-            <a href="/bjjs/index/wzaczsm/index.shtml" id="wzaczsm" title="无障碍操作说明" target="_blank">无障碍操作说明</a>|<a href="/Assistants/" title="无障碍浏览" target="_blank">无障碍浏览</a>|<a href="/english/309019/index.html" title="English" target="_blank">En</a>|<a href="/bjjs/index/bjzjwappyy/index.shtml" title="住建网app" target="_blank">住建网app</a>|<a href="http://m.bjjs.gov.cn/" title="手机网站" target="_blank">手机网站</a>|<a href="http://weibo.com/u/2417827827" title="官方微博" target="_blank">官方微博</a>|<a href="/bjjs/index/bjzjwappyy/index.shtml" title="官方微信" target="_blank">官方微信</a>|<a href="/bjjs/index/xxdy/index.shtml" title="信息订阅" target="_blank">信息订阅</a>|<a href="http://210.75.213.200/publish/portal0/" title="旧版回顾" target="_blank">旧版回顾</a>
+            <a href="/bjjs/index/wzaczsm/index.shtml" id="wzaczsm" title="无障碍操作说明" target="_blank">无障碍操作说明</a>|<a href="/Assistants/" title="无障碍浏览" target="_blank">无障碍浏览</a>|<a href="/english/309019/index.html" title="English" target="_blank">En</a>|<a href="/bjjs/index/bjzjwappyy/index.shtml" title="住建网app" target="_blank">住建网app</a>|<a href="http://m.bjjs.gov.cn/" title="手机网站" target="_blank">手机网站</a>|<a href="http://weibo.com/u/2417827827" title="官方微博" target="_blank">官方微博</a>|<a href="/bjjs/index/bjzjwgfwx/index.shtml" title="官方微信" target="_blank">官方微信</a>|<a href="/bjjs/index/xxdy/index.shtml" title="信息订阅" target="_blank">信息订阅</a>|<a href="http://210.75.213.200/publish/portal0/" title="旧版回顾" target="_blank">旧版回顾</a>
         </div>
         <div class="bzsy"><a href="/bjjs/index/bzsy/index.shtml" title="标志释义" target="_blank"><img src="/bjjs/template/common/index_header/logo.png" alt="标志释义" title="标志释义" width="434" height="55" /></a></div>
         <div class="search">
@@ -180,7 +180,7 @@ cIpt("q","iptaddcolor");
 <body>
 
 <table width="969"  border="0" cellpadding="0" cellspacing="0">
-    <tr><td height="28" align="right" background="/eportalapply/images/fdcjy/title01.gif"><a href="#popup" name="popup_statistic_everyday" target="_blank" class="f12a1" id="popup_statistic_everyday"><!--历史数据查询...--></a>  </td>
+    <tr><td height="28" align="right" background="/eportalapply/images/fdcjy/title01.gif"><a href="#popup" name="popup_statistic_everyday" target="_blank" class="f12a1" id="popup_statistic_everyday"><!--历史数据查询...--></a>&nbsp;&nbsp;</td>
     </tr>
     <script language=vbscript>
 		sub popup_statistic_everyday_onclick
@@ -198,73 +198,73 @@ cIpt("q","iptaddcolor");
     <tr><td width="25%"><table width="100%" border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
         <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1">可售期房统计</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 可售房屋套数：</td>
-            <td align="center" width=35%>77728</td></tr>
+            <td align="center" width=35%>67491</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 可售房屋面积(M<sup>2</sup>)：</td>
-            <td align="center">7326496.1000</td></tr>
-        <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中    住宅套数：</td>
-            <td align="center">25347</td></tr>
+            <td align="center">6447532.3900</td></tr>
+        <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;&nbsp;住宅套数：</td>
+            <td align="center">26923</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">3087985.0800</td></tr>
+            <td align="center">3184216.4000</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
-            <td align="center">7601</td></tr>
+            <td align="center">5484</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">974940.2400</td></tr>
+            <td align="center">729530.4600</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
-            <td align="center">17650</td></tr>
+            <td align="center">16635</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">701750.9300</td></tr>
+            <td align="center">664565.4300</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
-            <td align="center">24149</td></tr>
+            <td align="center">16416</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">2302910.4500</td></tr>
+            <td align="center">1659140.2300</td></tr>
 
 
 
     </table></td>
 
         <td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
-            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1"> 2016 年12月预售许可</td></tr>
+            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1"> 2017 年6月预售许可</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 批准预售许可证：</td>
-                <td align="center" width=35%>27</td></tr>
+                <td align="center" width=35%>21</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 批准预售面积(M<sup>2</sup>)：</td>
-                <td align="center">1146696.2700</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中   住宅套数：</td>
-                <td align="center">8066</td></tr>
+                <td align="center">805191.5100</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+                <td align="center">4811</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">678523.1000</td></tr>
+                <td align="center">483041.2700</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
-                <td align="center">852</td></tr>
+                <td align="center">695</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">105788.8100</td></tr>
+                <td align="center">71075.5700</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
-                <td align="center">3975</td></tr>
+                <td align="center">1655</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">284657.5500</td></tr>
+                <td align="center">128506.4500</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
-                <td align="center">1658</td></tr>
+                <td align="center">2431</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">70503.7500</td></tr>
+                <td align="center">89335.0900</td></tr>
 
         </table></td>
 
         <td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
-            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a1">2017-1-10期房网上认购</td></tr>
+            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a1">2017/7/13期房网上认购</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购套数：</td>
-                <td align="center" width=35%>148</td></tr>
+                <td align="center" width=35%>66</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购面积(M<sup>2</sup>)：</td>
-                <td align="center">16372.7200</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中   住宅套数： </td>
-                <td align="center">72</td></tr>
+                <td align="center">6700.7000</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数： </td>
+                <td align="center">65</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">12056.5200</td></tr>
+                <td align="center">6609.8200</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
-                <td align="center">58</td></tr>
+                <td align="center">0</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">3135.3500</td></tr>
+                <td align="center">0.0000</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
-                <td align="center">18</td></tr>
+                <td align="center">1</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">1180.8500</td></tr>
+                <td align="center">90.8800</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
                 <td align="center">0</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
@@ -273,133 +273,133 @@ cIpt("q","iptaddcolor");
         </table></td>
 
         <td width="25%"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
-            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1">2017-1-10期房网上签约</td></tr>
+            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a1">2017/7/13期房网上签约</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约套数：</td>
-                <td align="center" width=35%>299</td></tr>
+                <td align="center" width=35%>86</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约面积 (M<sup>2</sup>)：</td>
-                <td align="center">22193.9700</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">  其中    住宅套数：</td>
-                <td align="center">220</td></tr>
+                <td align="center">7506.8100</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;其中&nbsp;&nbsp;&nbsp;&nbsp;住宅套数：</td>
+                <td align="center">69</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">17265.4100</td></tr>
+                <td align="center">6693.6600</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
-                <td align="center">3</td></tr>
+                <td align="center">0</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">234.3700</td></tr>
+                <td align="center">0.0000</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
-                <td align="center">42</td></tr>
+                <td align="center">2</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">3411.7900</td></tr>
+                <td align="center">158.2500</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
-                <td align="center">33</td></tr>
+                <td align="center">15</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">1267.9500</td></tr>
+                <td align="center">654.9000</td></tr>
 
         </table></td></tr>
 
     <tr><td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
         <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">未签约现房统计</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 未签约套数：</td>
-            <td align="center" width=35%>103282</td></tr>
+            <td align="center" width=35%>87437</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 未签约面积(M<sup>2</sup>)：</td>
-            <td align="center">9933813.7100</td></tr>
+            <td align="center">8357479.7800</td></tr>
 
-        <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">     其中  住宅套数：</td>
-            <td align="center">28152</td></tr>
+        <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;&nbsp;&nbsp;其中&nbsp;&nbsp;住宅套数：</td>
+            <td align="center">22484</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">3563958.1200</td></tr>
+            <td align="center">2832668.0900</td></tr>
 
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
-            <td align="center">5723</td></tr>
+            <td align="center">5531</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">1636074.8600</td></tr>
+            <td align="center">1563487.2300</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
-            <td align="center">9255</td></tr>
+            <td align="center">9048</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">1367767.1700</td></tr>
+            <td align="center">1307303.3600</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
-            <td align="center">48536</td></tr>
+            <td align="center">40139</td></tr>
         <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-            <td align="center">2068844.9000</td></tr>
+            <td align="center">1718266.8800</td></tr>
         <tr bgcolor="#E3E2E2"><td height="20" bgcolor="#F9F4E8" colspan="2" align="center"><!--截止日期：2010-11-28--> <!--<a href="/publicbjjs/statistic/left.asp?show=2" style="color:#cc6600" target="_blank">--><span style="color:#cc6600"><b><!--查看详细资料>>>--></b></span></td></tr>
     </table></td>
 
         <td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
             <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">现房项目情况</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 现房项目个数：</td>
-                <td align="center" width=35%>25544</td></tr>
+                <td align="center" width=35%>26393</td></tr>
             <!--<tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 楼栋个数：</td>
             <td align="center">29315</td></tr>-->
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 初始登记面积(M<sup>2</sup>)：</td>
-                <td align="center">220808171.6600</td></tr>
+                <td align="center">224263410.8200</td></tr>
 
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中   住宅套数：</td>
-                <td align="center">775948</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+                <td align="center">778681</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">96320630.2200</td></tr>
+                <td align="center">96784920.6300</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元：</td>
-                <td align="center">72889</td></tr>
+                <td align="center">73789</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">16320129.6200</td></tr>
+                <td align="center">16603413.1700</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元：</td>
-                <td align="center">75252</td></tr>
+                <td align="center">87724</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">13842036.6000</td></tr>
+                <td align="center">16189829.5300</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数：</td>
-                <td align="center">384112</td></tr>
+                <td align="center">392842</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">15452254.9300</td></tr>
-            <tr bgcolor="#E3E2E2"><td height="20" colspan="2" align="center">截止日期：2017-1-10</td></tr>
+                <td align="center">15739725.9700</td></tr>
+            <tr bgcolor="#E3E2E2"><td height="20" colspan="2" align="center">截止日期：2017/7/13</td></tr>
         </table></td>
 
         <td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
-            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a2">2017-1-10现房网上认购 </td></tr>
+            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" class="f14a2">2017/7/13现房网上认购 </td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 网上认购套数：</td>
-                <td align="center" width=35%>22</td></tr>
+                <td align="center" width=35%>2</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上认购面积(M<sup>2</sup>)：</td>
-                <td align="center">3647.8500</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中   住宅套数：</td>
-                <td align="center" bgcolor="#F9F4E8">18</td></tr>
+                <td align="center">420.5100</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+                <td align="center" bgcolor="#F9F4E8">1</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)： </td>
-                <td align="center">3478.0400</td></tr>
+                <td align="center">313.1400</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
                 <td align="center">0</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
                 <td align="center">0.0000</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
-                <td align="center">2</td></tr>
+                <td align="center">1</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">98.9900</td></tr>
+                <td align="center">107.3700</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
-                <td align="center">2</td></tr>
+                <td align="center">0</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">70.8200</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" colspan="2"> </td></tr>
+                <td align="center">0.0000</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" colspan="2">&nbsp;</td></tr>
         </table></td>
 
         <td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF">
-            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">2017-1-10现房网上签约</td></tr>
+            <tr bgcolor="#F2E8D0"><td height="25" colspan="2" align="center" bgcolor="#F2E8D0" class="f14a2">2017/7/13现房网上签约</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right" width=65%> 网上签约套数：</td>
-                <td align="center" width=35%>159</td></tr>
+                <td align="center" width=35%>95</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 网上签约面积(M<sup>2</sup>)：</td>
-                <td align="center">14419.7100</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right">   其中   住宅套数：</td>
-                <td align="center">96</td></tr>
+                <td align="center">6458.7000</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> &nbsp;&nbsp;其中&nbsp;&nbsp;&nbsp;住宅套数：</td>
+                <td align="center">15</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">12013.3400</td></tr>
+                <td align="center">2286.5500</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 商业单元： </td>
-                <td align="center">2</td></tr>
+                <td align="center">4</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">160.2400</td></tr>
+                <td align="center">401.3000</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 办公单元： </td>
-                <td align="center">7</td></tr>
+                <td align="center">6</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">374.4100</td></tr>
+                <td align="center">837.8300</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 车位个数： </td>
-                <td align="center">51</td></tr>
+                <td align="center">65</td></tr>
             <tr bgcolor="#F9F4E8"><td height="20" bgcolor="#F9F4E8" align="right"> 面积(M<sup>2</sup>)：</td>
-                <td align="center">1726.9300</td></tr>
-            <tr bgcolor="#F9F4E8"><td height="20" colspan="2"> </td></tr>
+                <td align="center">2143.3100</td></tr>
+            <tr bgcolor="#F9F4E8"><td height="20" colspan="2">&nbsp;</td></tr>
         </table></td></tr>
 
 </table>
@@ -637,7 +637,7 @@ cIpt("q","iptaddcolor");
             <a href="#popup" name="popup_statistic_secondhouse_everyday" target="_blank" class="f12a1"
                id="popup_statistic_secondhouse_everyday">
                 <!--历史数据查询...-->
-            </a>
+            </a>&nbsp;&nbsp;
         </td>
     </tr>
 
@@ -669,7 +669,7 @@ cIpt("q","iptaddcolor");
                         可售房源套数：
                     </td>
                     <td align="middle" width="35%">
-                        17576
+                        19184
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -677,7 +677,7 @@ cIpt("q","iptaddcolor");
                         可售房源面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%">
-                        1678156.5300
+                        1766760.4800
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -693,7 +693,7 @@ cIpt("q","iptaddcolor");
                         可售住宅面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%" bgcolor="#f9f4e8">
-                        1491662.6200
+                        1485901.9200
                     </td>
                 </tr>
             </table>
@@ -702,7 +702,7 @@ cIpt("q","iptaddcolor");
             <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
                 <tr height="25">
                     <td width="25%" align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2">
-                        2017-1-10新发布房源
+                        2017/7/13新发布房源
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -710,7 +710,7 @@ cIpt("q","iptaddcolor");
                         新发布房源套数：
                     </td>
                     <td align="middle" width="35%">
-                        824
+                        262
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -718,7 +718,7 @@ cIpt("q","iptaddcolor");
                         新发布房源面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%">
-                        68879.1500
+                        22969.1300
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -726,7 +726,7 @@ cIpt("q","iptaddcolor");
                         新发布住宅套数：
                     </td>
                     <td align="middle" width="35%">
-                        666
+                        237
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -734,7 +734,7 @@ cIpt("q","iptaddcolor");
                         新发布住宅面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%" bgcolor="#f9f4e8">
-                        60758.1000
+                        21855.1700
                     </td>
                 </tr>
             </table>
@@ -743,7 +743,7 @@ cIpt("q","iptaddcolor");
             <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
                 <tr height="25">
                     <td width="25%" align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2">
-                        2016年12月存量房网上签约
+                        2017年6月存量房网上签约
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -751,7 +751,7 @@ cIpt("q","iptaddcolor");
                         网上签约套数：
                     </td>
                     <td align="middle" width="35%">
-                        22271
+                        10264
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -759,7 +759,7 @@ cIpt("q","iptaddcolor");
                         网上签约面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%">
-                        1975809.1200
+                        1105168.9700
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -767,7 +767,7 @@ cIpt("q","iptaddcolor");
                         住宅签约套数：
                     </td>
                     <td align="middle" width="35%">
-                        18078
+                        8918
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -775,7 +775,7 @@ cIpt("q","iptaddcolor");
                         住宅签约面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%" bgcolor="#f9f4e8">
-                        1650054.2600
+                        859157.0300
                     </td>
                 </tr>
             </table>
@@ -784,7 +784,7 @@ cIpt("q","iptaddcolor");
             <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
                 <tr height="25">
                     <td align="center" bgcolor="#f2e8d0" class="f14a1" colspan="2" nowrap>
-                        2017-1-10存量房网上签约
+                        2017/7/13存量房网上签约
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -792,7 +792,7 @@ cIpt("q","iptaddcolor");
                         网上签约套数：
                     </td>
                     <td align="middle" width="35%">
-                        692
+                        346
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -800,7 +800,7 @@ cIpt("q","iptaddcolor");
                         网上签约面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%">
-                        66471.0400
+                        32874.8500
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -808,7 +808,7 @@ cIpt("q","iptaddcolor");
                         住宅签约套数：
                     </td>
                     <td align="middle" width="35%">
-                        542
+                        311
                     </td>
                 </tr>
                 <tr bgcolor="#f9f4e8">
@@ -816,7 +816,7 @@ cIpt("q","iptaddcolor");
                         住宅签约面积(m<sup>2</sup>)：
                     </td>
                     <td align="middle" width="35%" bgcolor="#f9f4e8">
-                        51681.3800
+                        30596.1400
                     </td>
                 </tr>
             </table>
@@ -939,12 +939,12 @@ cIpt("q","iptaddcolor");
 <!--存量房网上签约成交月统计begin-->
 <table cellspacing=0 cellpadding=0 width="969" border=0>
     <tr bgcolor=#4a9ee0>
-        <td width=40 bgcolor="#4a9ee0"> </td>
+        <td width=40 bgcolor="#4a9ee0">&nbsp;</td>
         <td width=115 bgcolor="#4a9ee0"><img id="cmd_clf1" src="/eportalapply/images/fdcjy/clftj1_down.gif" onclick="imgClick1()" style="cursor: hand"><img src="/eportalapply/images/fdcjy/clftj1_over.gif" style="display:none; cursor:hand;"></td>
         <td width=115 bgcolor="#4a9ee0"><img id="cmd_clf2" src="/eportalapply/images/fdcjy/clftj2_over.gif" onclick="imgClick2()" style="cursor: hand"><img src="/eportalapply/images/fdcjy/clftj2_down.gif" style="display:none; cursor:hand;"></td>
         <td width=115 bgcolor="#4a9ee0"><img id="cmd_clf3" src="/eportalapply/images/fdcjy/clftj3_over.gif" onclick="imgClick3()" style="cursor: hand"><img src="/eportalapply/images/fdcjy/clftj3_down.gif" style="display:none; cursor:hand;"></td>
         <td width=115 bgcolor="#4a9ee0"><img id="cmd_clf4" src="/eportalapply/images/fdcjy/clftj4_over.gif" onclick="imgClick4()" style="cursor: hand"><img src="/eportalapply/images/fdcjy/clftj4_down.gif" style="display:none; cursor:hand;"></td>
-        <td align="right" bgcolor="#4a9ee0" class="f12a5">(2016年11月统计结果)  </td>
+        <td align="right" bgcolor="#4a9ee0" class="f12a5">(2017年6月统计结果)&nbsp;&nbsp;</td>
     </tr></table>
 
 <table cellspacing=0 cellpadding=0 width="969" border=0 id="table_clf1" style="border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
@@ -962,37 +962,37 @@ cIpt("q","iptaddcolor");
                 <tr align="center">
                     <td height="20">1</td>
                     <td align="left">北京链家房地产经纪有限公司</td>
-                    <td>7839</td>
-                    <td>9169</td>
-                    <td>259</td></tr>
+                    <td>2792</td>
+                    <td>3920</td>
+                    <td>176</td></tr>
 
                 <tr align="center">
                     <td height="20">2</td>
                     <td align="left">北京我爱我家房地产经纪有限公司</td>
-                    <td>1772</td>
-                    <td>2090</td>
-                    <td>75</td></tr>
+                    <td>642</td>
+                    <td>899</td>
+                    <td>42</td></tr>
 
                 <tr align="center">
                     <td height="20">3</td>
                     <td align="left">北京麦田房产经纪有限公司</td>
-                    <td>1009</td>
-                    <td>1062</td>
-                    <td>36</td></tr>
+                    <td>409</td>
+                    <td>586</td>
+                    <td>41</td></tr>
 
                 <tr align="center">
                     <td height="20">4</td>
                     <td align="left">北京华熙房地产经纪有限公司</td>
-                    <td>355</td>
-                    <td>364</td>
-                    <td>12</td></tr>
+                    <td>42</td>
+                    <td>83</td>
+                    <td>3</td></tr>
 
                 <tr align="center">
                     <td height="20">5</td>
-                    <td align="left">满懿（北京）房地产咨询有限公司</td>
-                    <td>238</td>
-                    <td>284</td>
-                    <td>21</td></tr>
+                    <td align="left">北京中原房地产经纪有限公司</td>
+                    <td>47</td>
+                    <td>82</td>
+                    <td>13</td></tr>
 
             </table></td>
             <td width="50%" valign="top"><table width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse;">
@@ -1005,38 +1005,38 @@ cIpt("q","iptaddcolor");
 
                 <tr align="center">
                     <td height="20">6</td>
-                    <td align="left">北京金色时光房地产经纪有限公司</td>
-                    <td>224</td>
-                    <td>264</td>
-                    <td>35</td></tr>
+                    <td align="left">北京我爱我家华熙房地产经纪有限公司</td>
+                    <td>44</td>
+                    <td>66</td>
+                    <td>2</td></tr>
 
                 <tr align="center">
                     <td height="20">7</td>
-                    <td align="left">北京存房房地产经纪有限公司</td>
-                    <td>203</td>
-                    <td>241</td>
-                    <td>11</td></tr>
+                    <td align="left">北京金色时光房地产经纪有限公司</td>
+                    <td>78</td>
+                    <td>62</td>
+                    <td>5</td></tr>
 
                 <tr align="center">
                     <td height="20">8</td>
-                    <td align="left">北京宝煌房地产经纪有限公司</td>
-                    <td>385</td>
-                    <td>163</td>
-                    <td>0</td></tr>
+                    <td align="left">满懿（北京）房地产咨询有限公司</td>
+                    <td>30</td>
+                    <td>49</td>
+                    <td>6</td></tr>
 
                 <tr align="center">
                     <td height="20">9</td>
-                    <td align="left">北京市易合房地产经纪有限责任公司</td>
-                    <td>121</td>
-                    <td>159</td>
-                    <td>8</td></tr>
+                    <td align="left">北京存房房地产经纪有限公司</td>
+                    <td>15</td>
+                    <td>47</td>
+                    <td>4</td></tr>
 
                 <tr align="center">
                     <td height="20">10</td>
-                    <td align="left">北京中原房地产经纪有限公司</td>
-                    <td>148</td>
-                    <td>130</td>
-                    <td>5</td></tr>
+                    <td align="left">北京汇鑫伟业房地产经纪有限公司</td>
+                    <td>22</td>
+                    <td>37</td>
+                    <td>6</td></tr>
 
             </table></td></tr>
 
@@ -1050,7 +1050,7 @@ cIpt("q","iptaddcolor");
 <table width="969" border=0 cellpadding=5 cellspacing=0 id="table_clf2" style="display:none; border-left:#DBBF93 solid 1px; border-right:#DBBF93 solid 1px;">
     <tr><td height="140" valign="top"><table width="100%" border="1" cellpadding="2" cellspacing="0" bordercolor="#4a9ee0" bgcolor="#ffffff" style="border-collapse:collapse">
         <tr bgcolor="#fae29a" align="center">
-            <td width="80" height="20" bgcolor="#fae29a" class="f12a1">区    县</td>
+            <td width="80" height="20" bgcolor="#fae29a" class="f12a1">区&nbsp;&nbsp;&nbsp;&nbsp;县</td>
             <td class="f12a1">全　市</td>
             <td class="f12a1">东　城</td>
             <td class="f12a1">西　城</td>
@@ -1063,33 +1063,33 @@ cIpt("q","iptaddcolor");
             <td class="f12a1">通　州</td>
         </tr>
         <tr align="center">
-            <td height="20" bgcolor="#fae29a" class="f12a1">套    数</td>
-            <td>22271.0</td>
-            <td>1079</td>
-            <td>1684</td>
+            <td height="20" bgcolor="#fae29a" class="f12a1">套&nbsp;&nbsp;&nbsp;&nbsp;数</td>
+            <td>10264.0</td>
+            <td>410</td>
+            <td>632</td>
             <td></td>
             <td></td>
-            <td>5725</td>
-            <td>2516</td>
-            <td>2128</td>
-            <td>694</td>
-            <td>931</td>
+            <td>2836</td>
+            <td>1206</td>
+            <td>969</td>
+            <td>464</td>
+            <td>491</td>
         </tr>
         <tr align="center">
             <td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
-            <td>1975809.12</td>
-            <td>73111.4800</td>
-            <td>113239.3000</td>
+            <td>1105168.97</td>
+            <td>39829.7700</td>
+            <td>46876.1400</td>
             <td></td>
             <td></td>
-            <td>537962.7800</td>
-            <td>224385.9400</td>
-            <td>175013.2800</td>
-            <td>49699.5900</td>
-            <td>75254.3600</td>
+            <td>351127.0900</td>
+            <td>112108.0200</td>
+            <td>87786.4200</td>
+            <td>60960.9100</td>
+            <td>77918.9900</td>
         </tr>
         <tr bgcolor="#fae29a" align="center">
-            <td height="20" class="f12a1">区    县</td>
+            <td height="20" class="f12a1">区&nbsp;&nbsp;&nbsp;&nbsp;县</td>
             <td class="f12a1">房　山</td>
             <td class="f12a1">顺　义</td>
             <td class="f12a1">门头沟</td>
@@ -1102,30 +1102,30 @@ cIpt("q","iptaddcolor");
             <td class="f12a1">开发区</td>
         </tr>
         <tr align="center">
-            <td height="20" bgcolor="#fae29a" class="f12a1">套    数</td>
-            <td>1423</td>
-            <td>887</td>
-            <td>186</td>
-            <td>1153</td>
-            <td>323</td>
+            <td height="20" bgcolor="#fae29a" class="f12a1">套&nbsp;&nbsp;&nbsp;&nbsp;数</td>
             <td>561</td>
-            <td>2281</td>
-            <td>132</td>
-            <td>210</td>
-            <td>358</td>
+            <td>395</td>
+            <td>105</td>
+            <td>624</td>
+            <td>94</td>
+            <td>238</td>
+            <td>913</td>
+            <td>115</td>
+            <td>110</td>
+            <td>101</td>
         </tr>
         <tr align="center">
             <td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
-            <td>117729.2900</td>
-            <td>104429.8600</td>
-            <td>14656.3100</td>
-            <td>108994.9500</td>
-            <td>31393.8800</td>
-            <td>63817.1000</td>
-            <td>219381.7600</td>
-            <td>13537.6300</td>
-            <td>19867.2300</td>
-            <td>33334.3800</td>
+            <td>46658.3500</td>
+            <td>47382.6600</td>
+            <td>8511.9700</td>
+            <td>59260.8300</td>
+            <td>11462.4500</td>
+            <td>26059.2400</td>
+            <td>96540.5800</td>
+            <td>10487.7700</td>
+            <td>10802.4500</td>
+            <td>11395.3300</td>
         </tr>
     </table>
     </td>
@@ -1149,39 +1149,39 @@ cIpt("q","iptaddcolor");
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">发布套数<!--(按拟售价格)--></td>
-                    <td>5702</td>
-                    <td>3486</td>
-                    <td>2787</td>
+                    <td>1621</td>
                     <td>1222</td>
-                    <td>895</td>
-                    <td>1569</td>
+                    <td>1135</td>
+                    <td>505</td>
+                    <td>364</td>
+                    <td>639</td>
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">发布面积(m<sup>2</sup>)</td>
-                    <td>262103.2200</td>
-                    <td>239650.4400</td>
-                    <td>249760.9100</td>
-                    <td>133160.7500</td>
-                    <td>115760.4800</td>
-                    <td>349187.9100</td>
+                    <td>73978.7100</td>
+                    <td>84035.9400</td>
+                    <td>101809.6700</td>
+                    <td>55149.5800</td>
+                    <td>47352.0300</td>
+                    <td>139523.9400</td>
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">成交套数<!--(按成交价格)--></td>
-                    <td>7908</td>
-                    <td>4845</td>
-                    <td>3918</td>
-                    <td>1808</td>
-                    <td>1353</td>
-                    <td>2439</td>
+                    <td>2973</td>
+                    <td>2171</td>
+                    <td>2056</td>
+                    <td>995</td>
+                    <td>756</td>
+                    <td>1313</td>
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
-                    <td>352520.3500</td>
-                    <td>333172.5100</td>
-                    <td>351289.0800</td>
-                    <td>197328.5500</td>
-                    <td>175458.9900</td>
-                    <td>566039.6400</td>
+                    <td>134516.2600</td>
+                    <td>150071.3000</td>
+                    <td>184307.0100</td>
+                    <td>108775.1500</td>
+                    <td>98244.2200</td>
+                    <td>429255.0300</td>
                 </tr>
             </table>
         </td>
@@ -1207,40 +1207,40 @@ cIpt("q","iptaddcolor");
 
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">发布套数(按拟售价格)</td>
-                    <td>1233</td>
-                    <td>631</td>
-                    <td>622</td>
-                    <td>531</td>
-                    <td>1049</td>
-                    <td>11595</td>
+                    <td>356</td>
+                    <td>95</td>
+                    <td>163</td>
+                    <td>106</td>
+                    <td>246</td>
+                    <td>4520</td>
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">发布面积(m<sup>2</sup>)</td>
-                    <td>45657.6800</td>
-                    <td>35643.7500</td>
-                    <td>43312.2400</td>
-                    <td>36281.7700</td>
-                    <td>72889.9200</td>
-                    <td>1115838.3500</td>
+                    <td>13228.5500</td>
+                    <td>5642.7500</td>
+                    <td>12219.0600</td>
+                    <td>8547.4800</td>
+                    <td>19235.8300</td>
+                    <td>442976.2000</td>
                 </tr>
 
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">成交套数(按成交价格)</td>
-                    <td>3213</td>
-                    <td>1752</td>
-                    <td>2128</td>
-                    <td>2583</td>
-                    <td>2419</td>
-                    <td>10176</td>
+                    <td>1604</td>
+                    <td>618</td>
+                    <td>1015</td>
+                    <td>1382</td>
+                    <td>1285</td>
+                    <td>4360</td>
                 </tr>
                 <tr align="center">
                     <td height="20" bgcolor="#fae29a" class="f12a1">成交面积(m<sup>2</sup>)</td>
-                    <td>149074.2300</td>
-                    <td>106489.9200</td>
-                    <td>149578.7700</td>
-                    <td>192628.9400</td>
-                    <td>205303.6800</td>
-                    <td>1172733.5800</td>
+                    <td>83924.6500</td>
+                    <td>44113.5300</td>
+                    <td>76224.6800</td>
+                    <td>106792.9900</td>
+                    <td>118440.6100</td>
+                    <td>675672.5100</td>
                 </tr>
             </table>
         </td>
@@ -1265,470 +1265,18 @@ cIpt("q","iptaddcolor");
   </div>
  </div>
  <div>
-   <html>
 
-<head>
-    <title>存量房网上签约统计</title>
-</head>
-<body>
-<style type="text/css">
-    .titletr
-    {
-        background-color: #fae29a;
-        text-align: center;
-    }
-    .desctr
-    {
-        background-color: #FFFFFF;
-        text-align: center;
-    }
-    .lantitletr
-    {
-        background-color: #fae29a;
-        text-align: center;
-        line-height: 23px;
-    }
-    .landesctr
-    {
-        background-color: #FFFFFF;
-        text-align: center;
-        line-height: 23px;
-    }
-</style>
-<table width="969">
-    <tr>
-        <td>
-            <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#4A9EE0">
-                <tr>
-                    <td width="100%">
-                        <img src="/eportalapply/images/fdcjy/renttj_tit.gif" width="350" height="30">
-                    </td>
-                </tr>
-            </table>
-            <table cellspacing="3" cellpadding="0" width="100%" bgcolor="#4a9ee0" border="0">
-                <tr>
-                    <td width="25%">
-                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
-                            <tr height="25">
-                                <td width="25%" style="font-weight: bold; color: Blue;" align="center" bgcolor="#f2e8d0"
-                                    class="f14a2" colspan="2">
-                                    2016年11月<br />
-                                    居住类居间租赁合同
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报件数：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    10件
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报面积：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    677.37m<sup>2</sup>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                    <td width="25%">
-                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
-                            <tr height="25">
-                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
-                                    class="f14a2" colspan="2">
-                                    2016年11月<br />
-                                    居住类代理租赁合同
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报件数：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    5件
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报面积：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    537.99m<sup>2</sup>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                    <td width="25%">
-                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
-                            <tr height="25">
-                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
-                                    class="f14a2" colspan="2">
-                                    2016年11月<br />
-                                    居住类出租代理合同
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报件数：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    5件
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报面积：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    537.99m<sup>2</sup>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                    <td>
-                        <table cellspacing="1" cellpadding="0" width="100%" bgcolor="#ffffff" border="0">
-                            <tr height="25">
-                                <td width="25%" style="font-weight: bold; color: Blue" align="center" bgcolor="#f2e8d0"
-                                    class="f14a2" colspan="2">
-                                    2016年11月<br />
-                                    非居住房屋租赁合同
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报件数：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    0件
-                                </td>
-                            </tr>
-                            <tr bgcolor="#f9f4e8">
-                                <td align="right" bgcolor="#f9f4e8" height="20" style="font-size: 12px">
-                                    网上申报面积：
-                                </td>
-                                <td align="middle" style="font-size: 12px">
-                                    0.00m<sup>2</sup>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-    <tr style="height: 5px">
-        <td>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tr>
-                    <td width="100%">
-                        <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#4A9EE0">
-                            <tr>
-                                <td colspan="5">
-                                    <img src="/eportalapply/images/fdcjy/rentytj_tit.gif">
-                                </td>
-                            </tr>
-                            <tr>
-                                <td width="5%">
-
-                                </td>
-                                <td width="15%">
-                                    <img id="ccmd_rent1" src="/eportalapply/images/fdcjy/clftj1_over.gif" onclick="ImgOnclick1()"
-                                         style="cursor: hand">
-                                </td>
-                                <td width="15%">
-                                    <img id="ccmd_rent2" src="/eportalapply/images/fdcjy/clftj2_down.gif" onclick="ImgOnclick2()"
-                                         style="cursor: hand">
-                                </td>
-                                <td width="15%">
-                                    <img id="ccmd_rent3" src="/eportalapply/images/fdcjy/clftj3_down.gif" onclick="ImgOnclick3()"
-                                         style="cursor: hand">
-                                </td>
-                                <td align="right" class="f12a6" style="font-size: 12px; color: Yellow">
-                                    (2016年11月统计结果)
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-                <tr>
-                    <td width="100%">
-
-                        <script type="text/javascript">
-                            function ImgOnclick1() {
-                                document.getElementById("ccmd_rent1").src = "/eportalapply/images/fdcjy/clftj1_over.gif";
-                                document.getElementById("ccmd_rent2").src = "/eportalapply/images/fdcjy/clftj2_down.gif";
-                                document.getElementById("ccmd_rent3").src = "/eportalapply/images/fdcjy/clftj3_down.gif";
-                                document.getElementById("ttable_rent1").style.display = "";
-                                document.getElementById("ttable_rent2").style.display = "none";
-                                document.getElementById("ttable_rent3").style.display = "none";
-                            }
-                            function ImgOnclick2() {
-                                document.getElementById("ccmd_rent1").src = "/eportalapply/images/fdcjy/clftj1_down.gif";
-                                document.getElementById("ccmd_rent2").src = "/eportalapply/images/fdcjy/clftj2_over.gif";
-                                document.getElementById("ccmd_rent3").src = "/eportalapply/images/fdcjy/clftj3_down.gif";
-                                document.getElementById("ttable_rent1").style.display = "none";
-                                document.getElementById("ttable_rent2").style.display = "";
-                                document.getElementById("ttable_rent3").style.display = "none";
-                            }
-                            function ImgOnclick3() {
-                                document.getElementById("ccmd_rent1").src = "/eportalapply/images/fdcjy/clftj1_down.gif";
-                                document.getElementById("ccmd_rent2").src = "/eportalapply/images/fdcjy/clftj2_down.gif";
-                                document.getElementById("ccmd_rent3").src = "/eportalapply/images/fdcjy/clftj3_over.gif";
-                                document.getElementById("ttable_rent1").style.display = "none";
-                                document.getElementById("ttable_rent2").style.display = "none";
-                                document.getElementById("ttable_rent3").style.display = "";
-                            }
-                        </script>
-
-                        <!--按经纪机构-->
-                        <table width="100%" border="0" align="center" cellpadding="2" cellspacing="0" bgcolor="#4a9ee0"
-                               id="ttable_rent1">
-                            <tr>
-                                <td width="50%">
-                                    <table id="jj1" runat="server" width="100%" border="1" cellpadding="2" cellspacing="0"
-                                           bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse; font-size: 12px">
-                                        <tr class="titletr">
-                                            <td>
-                                                序号
-                                            </td>
-                                            <td>
-                                                房地产经纪机构名称
-                                            </td>
-                                            <td>
-                                                件数
-                                            </td>
-                                            <td>
-                                                面积
-                                            </td>
-                                        </tr>
-                                        	<tr class="desctr">
-			<td>1</td>
-			<td style="text-aglin:left;">21世纪不动产</td>
-			<td>10</td>
-			<td>1075.98</td>
-		</tr>
-	<tr class="desctr">
-			<td>2</td>
-			<td style="text-aglin:left;">北京金城阜业房地产经纪有限公司</td>
-			<td>10</td>
-			<td>677.37</td>
-		</tr>
-	<tr class="desctr">
-			<td>3</td>
-			<td style="text-aglin:left;">北京世纪美英房地产经纪有限公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>4</td>
-			<td style="text-aglin:left;">北京城建房地产经纪有限公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>5</td>
-			<td style="text-aglin:left;">北京恒量房地产经纪有限公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-
-                                    </table>
-                                </td>
-                                <td width="50%">
-                                    <table id="jj2" runat="server" width="100%" border="1" cellpadding="2" cellspacing="0"
-                                           bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse; font-size: 12px">
-                                        <tr class="titletr">
-                                            <td>
-                                                序号
-                                            </td>
-                                            <td>
-                                                房地产经纪机构名称
-                                            </td>
-                                            <td>
-                                                件数
-                                            </td>
-                                            <td>
-                                                面积
-                                            </td>
-                                        </tr>
-                                        	<tr class="desctr">
-			<td>6</td>
-			<td style="text-aglin:left;">北京天地人通房地产经纪事务所</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>7</td>
-			<td style="text-aglin:left;">北京益民房地产经纪中心</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>8</td>
-			<td style="text-aglin:left;">北京金诚信房地产经纪有限责任公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>9</td>
-			<td style="text-aglin:left;">北京北方行房地产经纪有限责任公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-	<tr class="desctr">
-			<td>10</td>
-			<td style="text-aglin:left;">北京易家房地产经纪有限公司</td>
-			<td>0</td>
-			<td>0.00</td>
-		</tr>
-
-                                    </table>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td height="20" colspan="2" align="right" style="font-size: 12px; color: Yellow">
-                                    （备注：按件数降序排列，件数相同按面积降序排列。[<!--<a href="statistic/jjtop_rent.asp" class="f12a3">-->查看更多<!--</a>-->]）
-                                </td>
-                            </tr>
-                        </table>
-                        <!--按区县-->
-                        <table width="100%" style="display: none" border="0" cellpadding="2" cellspacing="0"
-                               bgcolor="#4a9ee0" id="ttable_rent2">
-                            <tr>
-                                <td>
-                                    <table id="qx" runat="server" width="100%" border="1" cellpadding="2" cellspacing="0"
-                                           bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse; font-size: 12px">
-                                        <tr class="lantitletr">
-			<td>区    县</td>
-			<td>北京市</td>
-			<td>东城区</td>
-			<td>西城区</td>
-			<td>崇文区</td>
-			<td>宣武区</td>
-			<td>朝阳区</td>
-			<td>海淀区</td>
-			<td>丰台区</td>
-			<td>石景山区</td>
-			<td>通州区</td>
-		</tr><tr class="landesctr">
-			<td style="background-color:#fae29a;">套    数</td>
-			<td>49</td>
-			<td>4</td>
-			<td>0</td>
-			<td>3</td>
-			<td>0</td>
-			<td>18</td>
-			<td>9</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-		</tr><tr class="landesctr">
-			<td style="background-color:#fae29a;">成交面积(m<sup>2</sup>)</td>
-			<td>288626.43</td>
-			<td>2257.39</td>
-			<td>0.00</td>
-			<td>202.00</td>
-			<td>0.00</td>
-			<td>187091.77</td>
-			<td>79145.21</td>
-			<td>0.00</td>
-			<td>0.00</td>
-			<td>0.00</td>
-		</tr><tr class="lantitletr">
-			<td>区    县</td>
-			<td>房山区</td>
-			<td>顺义区</td>
-			<td>门头沟区</td>
-			<td>大兴区</td>
-			<td>怀柔区</td>
-			<td>密云县</td>
-			<td>昌平区</td>
-			<td>延庆县</td>
-			<td>平谷区</td>
-			<td>开发区</td>
-		</tr><tr class="landesctr">
-			<td style="background-color:#fae29a;">套    数</td>
-			<td>0</td>
-			<td>4</td>
-			<td>10</td>
-			<td>0</td>
-			<td>1</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-			<td>0</td>
-		</tr><tr class="landesctr">
-			<td style="background-color:#fae29a;">成交面积(m<sup>2</sup>)</td>
-			<td>0.00</td>
-			<td>15200.69</td>
-			<td>677.37</td>
-			<td>0.00</td>
-			<td>4052.00</td>
-			<td>0.00</td>
-			<td>0.00</td>
-			<td>0.00</td>
-			<td>0.00</td>
-			<td>0.00</td>
-		</tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-                        <!--按建筑面积-->
-                        <table cellspacing="0" style="display: none" cellpadding="2" width="100%" border="0"
-                               bgcolor="#4a9ee0" id="ttable_rent3">
-                            <tr>
-                                <td>
-                                    <table id="jzmj" runat="server" width="100%" border="1" align="center" cellpadding="2"
-                                           cellspacing="0" bordercolor="#016799" bgcolor="#ffffff" style="border-collapse: collapse;
-                                        font-size: 12px">
-                                        		</tr><tr class="lantitletr">
-			<td>套    数</td>
-			<td>60m<sup>2</sup>以下</td>
-			<td>60～80m<sup>2</sup></td>
-			<td>80～100m<sup>2</sup></td>
-			<td>100～120m<sup>2</sup></td>
-			<td>120～140m<sup>2</sup></td>
-			<td>140m<sup>2</sup>以上</td>
-		</tr><tr class="landesctr">
-			<td style="background-color:#fae29a;">成交面积(m<sup>2</sup>)</td>
-			<td>12</td>
-			<td>4</td>
-			<td>4</td>
-			<td>2</td>
-			<td>0</td>
-			<td>27</td>
-		</tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-</body>
  </div>
 </div>    </div>
   </div> <style>
 /*footer*/
-.footer_bg{ clear:both; position:relative; width:100%; min-width:1200px; width:expression_r(document.body.clientWidth < 1200 ? "1200px": "auto" ); background:#f1f1f1; border:1px solid #f1f1f1;}
+.footer_bg{ clear:both; position:relative; width:100%; min-width:1200px; width:expression_r(document.body.clientWidth < 1200 ? "1200px": "auto" ); background:#f1f1f1; }
 .footer{ overflow:hidden; position:relative; width:1200px; height:192px; margin:0 auto; text-align:left;}
 .footer a, .footer span{ font-family:"宋体"; font-size:12px;}
 .bot_open{ margin-top:38px;}
 .bot_open table td{ padding:0 3px; font-family:"宋体"; font-size:14px; color:#000;}
 .bot_open select{ width:240px; height:21px; border:1px solid #d9d8d8; font-family:"宋体"; font-size:12px; color:#545454;}
-.bot_links{ margin-top:32px; margin-left:56px; color:#e2e2e2;}
+.bot_links{ height:55px; line-height:55px; margin-top:10px; margin-left:56px; color:#e2e2e2;}
 .bot_links a{ padding:0 10px; color:#155783;}
 .bot_bs{ width:785px; margin-top:9px; margin-left:60px;}
 .bot_bs a, .bot_bs span{ padding:0 6px; color:#494949;}
@@ -1769,12 +1317,19 @@ function changeURL(){
         </div>
         <span class="biaoshi"><script type="text/javascript">document.write(unescape("%3Cspan id='_ideConac' %3E%3C/span%3E%3Cscript   src='http://dcs.conac.cn/js/01/000/0000/60426125/CA010000000604261250004.js' type='text/javascript'%3E%3C/script%3E"));</script></span>
         <div class="bot_links">
-            <a href="/bjjs/index/fwcn/index.shtml" title="服务承诺" target="_blank">服务承诺</a>|
-            <a href="/bjjs/index/lxwm/index.shtml" title="联系我们" target="_blank">联系我们</a>|
-            <a href="/bjjs/index/wgxx/index.shtml" title="网管信箱" target="_blank">网管信箱</a>|
-            <a href="/bjjs/index/wzsm13/index.shtml" title="网站声明" target="_blank">网站声明</a>|
-            <a href="/bjjs/index/wzdh/index.shtml" title="网站导航" target="_blank">网站导航</a>|
-            <a href="/eportal/admin" onclick="return changeURL();" title="网站维护" target="_blank">网站维护</a>
+           <table cellpadding="0" cellspacing="0" border="0">
+           		<tr>
+                	<td>
+                    	<a href="/bjjs/index/fwcn/index.shtml" title="服务承诺" target="_blank">服务承诺</a>|
+                        <a href="/bjjs/index/lxwm/index.shtml" title="联系我们" target="_blank">联系我们</a>|
+                        <!--<a href="/bjjs/index/wgxx/index.shtml" title="网管信箱" target="_blank">网管信箱</a>|-->
+                        <a href="/bjjs/index/wzsm13/index.shtml" title="网站声明" target="_blank">网站声明</a>|
+                        <a href="/bjjs/index/wzdh/index.shtml" title="网站导航" target="_blank">网站导航</a>|
+                        <a href="/eportal/admin" onclick="return changeURL();" title="网站维护" target="_blank">网站维护</a>
+                    </td>
+                    <td><script id="_jiucuo_" sitecode='1100000159' src='http://pucha.kaipuyun.cn/exposure/jiucuo.js'></script></td>
+                </tr>
+           </table>
         </div>
          <div class="bot_bs">
             <span>主办：北京市住房和城乡建设委员会</span>
@@ -1788,10 +1343,10 @@ function changeURL(){
         <div class="erwm">
             <ul>
                 <li>
-                    <a href="/bjjs/index/bjzjwappyy/index.shtml" title="官方微信" target="_blank"><img src="/bjjs/template/common/index_footer/gfwx_bg.jpg" width="100" height="122" alt="官方微信" title="官方微信" /></a>
+                    <a href="/bjjs/index/bjzjwgfwx/index.shtml" title="官方微信" target="_blank"><img src="/bjjs/template/common/index_footer/gfwx_bg.jpg" width="100" height="122" alt="官方微信" title="官方微信" /></a>
                 </li>
                 <li>
-                    <a href="/bjjs/index/bjzjwappyy/index.shtml" title="APP Android" target="_blank"><img src="/bjjs/template/common/index_footer/android_app.jpg" width="99" height="122" alt="APP Android" title="APP Android" /></a>
+                    <a href="/bjjs/index/bjzjwappyy/index.shtml" title="APP Android" target="_blank"><img src="/bjjs/template/common/index_footer/android_app.gif" width="99" height="122" alt="APP Android" title="APP Android" /></a>
                 </li>
                 <li>
                     <a href="/bjjs/index/bjzjwappyy/index.shtml" title="APP IOS版" target="_blank"><img src="/bjjs/template/common/index_footer/ios_app.jpg" width="99" height="122" alt="APP IOS版" title="APP IOS版" /></a>

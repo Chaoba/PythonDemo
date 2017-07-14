@@ -63,9 +63,9 @@ class HouseParser:
 
     def read_content(self):
         print'Get content from Net.'
-        # with open("content.txt", 'r') as f:
-        #     content = f.read().decode('utf-8')
-        content = self.get(self.Url).decode('utf-8')
+        with open("content.txt", 'r') as f:
+            content = f.read().decode('utf-8')
+        #content = self.get(self.Url).decode('utf-8')
         if content:
             # remove &nbsp
             pattern = re.compile(r'&nbsp;')
@@ -84,7 +84,7 @@ class HouseParser:
             date = pattern.search(content)
             if date:
                 commercial_bean['date'] = date.group(1)
-                self.jsonBean['t'] = time.mktime(time.strptime(date.group(1), '%Y-%m-%d')) * 1000
+                self.jsonBean['t'] = time.mktime(time.strptime(date.group(1), '%Y/%m/%d')) * 1000
 
             commercial = re.findall(
                     r'[^-]<tr[^<>]+><td[^<>]+>([^<>(：]+).*</td>\s+<td[^<>]+>([^<>]+)</td></tr>'.decode(
