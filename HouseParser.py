@@ -63,9 +63,9 @@ class HouseParser:
 
     def read_content(self):
         print'Get content from Net.'
-        with open("content.txt", 'r') as f:
-            content = f.read().decode('utf-8')
-        #content = self.get(self.Url).decode('utf-8')
+        # with open("content.txt", 'r') as f:
+        #   content = f.read().decode('utf-8')
+        content = self.get(self.Url).decode('utf-8')
         if content:
             # remove &nbsp
             pattern = re.compile(r'&nbsp;')
@@ -83,13 +83,14 @@ class HouseParser:
             pattern = re.compile(r'<tr.*><td[^<>]+>\S+：(\S+)</td>'.decode("utf8"))
             date = pattern.search(content)
             if date:
-                commercial_bean['date'] = date.group(1)
-                self.jsonBean['t'] = time.mktime(time.strptime(date.group(1), '%Y/%m/%d')) * 1000
+                group = date.group(1).replace("/", "-", 3)
+                commercial_bean['date'] = group
+                self.jsonBean['t'] = time.mktime(time.strptime(group, '%Y-%m-%d')) * 1000
 
             commercial = re.findall(
-                    r'[^-]<tr[^<>]+><td[^<>]+>([^<>(：]+).*</td>\s+<td[^<>]+>([^<>]+)</td></tr>'.decode(
-                            "utf8"),
-                    content)
+                r'[^-]<tr[^<>]+><td[^<>]+>([^<>(：]+).*</td>\s+<td[^<>]+>([^<>]+)</td></tr>'.decode(
+                    "utf8"),
+                content)
             if commercial:
                 items_queue = []
                 for i in range(8):
@@ -111,9 +112,9 @@ class HouseParser:
                 commercial_bean['items'] = items_queue
                 self.jsonBean['c'] = commercial_bean
             stock = re.findall(
-                    r'<tr[^<>]+>\s*<td[^<>]+>([^<>(：]+).*\s+</td>\s+<td[^<>]+>\s+([^<>]+)'.decode(
-                            "utf8"),
-                    content)
+                r'<tr[^<>]+>\s*<td[^<>]+>([^<>(：]+).*\s+</td>\s+<td[^<>]+>\s+([^<>]+)'.decode(
+                    "utf8"),
+                content)
             if stock:
                 stock_bean = {}
                 item_queue = []
@@ -135,11 +136,15 @@ class HouseParser:
 
     def update_data(self, data):
         print ('Update data to server')
-        JSON_TNAME = "JSON_TNAME";
+        JSON_TNAME = "JSON_TNAME1";
         JSON_DATE = "JSON_DATE"
         JSON_TIME = "JSON_TIME"
         JSON_CONTENT = "JSON_CONTENT"
-        leancloud.init('yourid', 'yourkey')
+
+        with open("key.txt", 'r') as f:
+            id = f.readline().strip('\n')
+            key = f.readline().strip('\n')
+        leancloud.init(id, key)
         BeanObj = Object.extend(JSON_TNAME)
         leanObj = BeanObj()
 
