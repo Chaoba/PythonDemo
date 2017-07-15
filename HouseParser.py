@@ -30,6 +30,8 @@
 # "cou2":"住宅签约套数:1441","tit":"2016-3-23存量房网上签约"}]},"t":"1458662400000"}
 
 import json
+from threading import Timer
+
 import leancloud
 import re
 import sys
@@ -40,6 +42,8 @@ from leancloud import Object
 
 
 class HouseParser:
+    retryCount = 3
+
     def __init__(self):
         self.Url = "http://www.bjjs.gov.cn/bjjs/fwgl/fdcjy/fwjy/index.shtml"
         self.jsonBean = {}
@@ -58,6 +62,7 @@ class HouseParser:
             read = response.read()
             return read
         except urllib2.HTTPError, e:
+            self.retry_after_two_hours()
             print'Get content failed:' + e.code
             return
 
@@ -156,6 +161,11 @@ class HouseParser:
             print 'Update success.'
         except LeanCloudError, e:
             print 'update failed' + e
+
+    def retry_after_two_hours(self):
+        if HouseParser.retryCount < 0:
+            return
+        # Timer(3, HouseParser.parse).start()
 
 
 if __name__ == '__main__':
