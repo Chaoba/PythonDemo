@@ -31,7 +31,8 @@
 
 import json
 from threading import Timer
-
+from datetime import datetime
+import time
 import leancloud
 import re
 import sys
@@ -43,6 +44,10 @@ from leancloud import Object
 
 class HouseParser:
     retryCount = 3
+    JSON_TNAME = "JSON_TNAME1"
+    JSON_DATE = "JSON_DATE"
+    JSON_TIME = "JSON_TIME"
+    JSON_CONTENT = "JSON_CONTENT"
 
     def __init__(self):
         self.Url = "http://www.bjjs.gov.cn/bjjs/fwgl/fdcjy/fwjy/index.shtml"
@@ -141,16 +146,12 @@ class HouseParser:
 
     def update_data(self, data):
         print ('Update data to server')
-        JSON_TNAME = "JSON_TNAME1";
-        JSON_DATE = "JSON_DATE"
-        JSON_TIME = "JSON_TIME"
-        JSON_CONTENT = "JSON_CONTENT"
 
-        with open("key.txt", 'r') as f:
+        with open("/Users/megvii/PycharmProjects/PythonDemo/key.txt", 'r') as f:
             id = f.readline().strip('\n')
             key = f.readline().strip('\n')
         leancloud.init(id, key)
-        BeanObj = Object.extend(JSON_TNAME)
+        BeanObj = Object.extend(self.JSON_TNAME)
         leanObj = BeanObj()
 
         leanObj.set('JSON_DATE', self.jsonBean['c']['date'])
@@ -165,10 +166,30 @@ class HouseParser:
     def retry_after_two_hours(self):
         if HouseParser.retryCount < 0:
             return
-        # Timer(3, HouseParser.parse).start()
+            # Timer(3, HouseParser.parse).start()
+
+    def checkUpdate(self):
+        with open("/Users/megvii/PycharmProjects/PythonDemo/key.txt", 'r') as f:
+            id = f.readline().strip('\n')
+            key = f.readline().strip('\n')
+        leancloud.init(id, key)
+        BeanObj = Object.extend(self.JSON_TNAME)
+        query = BeanObj.query
+        query.add_descending(self.JSON_TIME)
+        first = query.first()
+
+        now = datetime.now()
+        today = datetime.date(now).today()
+        timestamp = int(time.mktime(today.timetuple())) * 1000
+        lastTimeStamp = first.get(self.JSON_TIME) + 3600 * 24 * 1000
+        if lastTimeStamp < timestamp:
+            print 'start to update'
+            self.parse();
+        else:
+            print 'No need to update'
 
 
 if __name__ == '__main__':
     print'Start to run.'
     parser = HouseParser()
-    parser.parse()
+    parser.checkUpdate()
